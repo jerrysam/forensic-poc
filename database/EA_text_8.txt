@@ -1,0 +1,177 @@
+Cash, Cash Equivalents, and Short-Term Investments 
+
+Cash equivalents consist of highly liquid investments with insignificant interest rate risk and original or remaining maturities of three months or less at the time of purchase. 
+
+Short-term investments consist of debt securities with original or remaining maturities of greater than three months at the time of purchase and less than a year, and are accounted for as available-for-sale securities and are recorded at fair value. Cash, cash equivalents and short-term investments are available for use in current operations or other activities such as capital expenditures, business combinations and stock repurchases. 
+
+Unrealized gains and losses on our short-term investments are recorded as a component of accumulated other comprehensive income (loss) in stockholders&#8217; equity, net of tax, until either (1) the security is sold, (2) the security has matured, (3) we determine that the fair value of the security has declined below its adjusted cost basis and the decline is due to an expected credit loss, or (4) we intend to, or more likely than not would be required to, sell a security in an unrealized loss position before the recovery of its amortized cost basis. Realized gains and losses on our short-term investments are calculated based on the specific identification method and are reclassified from accumulated other comprehensive income (loss) to interest and other income (expense), net. Determining whether a decline in fair value is due to an expected credit loss requires management judgment based on the specific facts and circumstances of each security. The ultimate value realized on these securities is subject to market price volatility until they are sold. 
+
+Our short-term investments are evaluated for allowances and impairment quarterly. For investments in an unrealized loss position, we consider various factors in determining whether we should recognize an allowance for expected credit losses or an impairment charge, including the credit quality of the issuer, changes to the rating of the security by rating agencies, the extent to which fair value is less than amortized cost, reason for the decline in value and potential recovery period, the financial condition and near-term prospects of the investees, our intent to sell and ability to hold the investment for a period of time sufficient to allow for any anticipated recovery in market value, and any contractual terms impacting the prepayment or settlement process, among other factors. We recognize an allowance for credit losses, up to the amount of unrealized loss when appropriate, and write down the amortized cost basis of the investment if we intend to, or it is more likely than not we will be required to, sell the investment before the recovery of its amortized cost basis. Allowances for credit losses and write-downs are recognized in our Consolidated Statements of Operations, and unrealized losses not related to credit losses are recognized in other comprehensive income (loss). Based on our evaluation, we did not recognize an allowance for credit losses, nor did we recognize any impairments, as of March 31, 2024 and 2023. 
+
+Property and Equipment, Net 
+
+Property and equipment, net, are stated at cost. Depreciation is calculated using the straight-line method over the following useful lives: 
+
+##TABLE_START Buildings &#160; 
+
+20 to 25 years 
+
+Computer equipment and software &#160; 
+
+2 to 6 years 
+
+Equipment, furniture and fixtures, and other &#160; 
+
+3 to 5 years 
+
+Leasehold improvements &#160; 
+
+Lesser of the lease term or the estimated useful lives of the improvements, ranging from 1 to 15 years 
+
+##TABLE_END
+
+We capitalize costs associated with internal-use software development once a project has reached the application development stage. Such capitalized costs include external direct costs utilized in developing or obtaining the software, and payroll and payroll-related expenses for employees who are directly associated with the development of the software. Capitalization of such costs begins when the preliminary project stage is complete and ceases at the point in which the project is substantially complete and is ready for its intended purpose. Once internal-use software is ready for its intended use, the assets are depreciated on a straight-line basis over each asset&#8217;s estimated useful life, which is generally three years. We also capitalize costs associated with the purchase of possessable internal-use software licenses. The net book value of capitalized costs associated with internal-use software was $ 93 million and $ 90 million as of March 31, 2024 and 2023, respectively. 
+
+Acquisition-Related Intangibles and Other Long-Lived Assets 
+
+We recognize acquisition-related intangible assets, such as acquired developed and core technology, in connection with business combinations. We amortize the cost of acquisition-related intangible assets that have finite useful lives generally on a straight-line basis over the lesser of their estimated useful lives or the agreement terms, currently from two to seven years. We evaluate acquisition-related intangibles and other long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets is measured by a comparison of the carrying amount of an asset to future undiscounted net cash flows expected to be generated by the asset group. This includes assumptions about future prospects for the business that the asset relates to and typically involves computations of the estimated future cash flows to be generated by these businesses. Based on these judgments and assumptions, we determine whether we need to take an impairment charge to reduce the value of the asset stated on our Consolidated Balance Sheets to reflect its estimated fair value. When we consider such assets to be impaired, the amount of impairment we recognize is measured by the amount by which the carrying amount of the asset exceeds its fair value. 
+
+Goodwill Impairment 
+
+In assessing impairment on our goodwill, we first analyze qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform a goodwill impairment test. The qualitative factors we assess include long-term prospects of our performance, share price trends and market capitalization, and Company specific events. If we conclude it is more likely than not that the fair value of a reporting unit exceeds its carrying amount, we do not need to perform an impairment test. If based on that assessment, we believe it is more likely than not that the fair value of the reporting unit is less than its carrying value we will measure goodwill for impairment by applying fair value-based tests at the reporting unit level. Reporting units are determined by the components of operating segments that constitute a business for which (1) discrete financial information is available, (2) segment management regularly reviews the operating results of that component, and (3) whether the component has dissimilar economic characteristics to other components. As of March 31, 2024, we have only one reportable segment, which represents our only operating segment. 
+
+Revenue Recognition 
+
+We derive revenue principally from sales of our games, and related extra content and services that can be experienced on game consoles, PCs, mobile phones and tablets. Our product and service offerings include, but are not limited to, the following: 
+
+&#8226; full games with both online and offline functionality (&#8220;Games with Services&#8221;), which generally includes (1) the initial game delivered digitally or via physical disc at the time of sale and typically provide access to offline core game content (&#8220;software license&#8221;); (2) updates on a when-and-if-available basis, such as software patches or updates, and/or additional free content to be delivered in the future (&#8220;future update rights&#8221;); and (3) a hosted connection for online playability (&#8220;online hosting&#8221;); 
+
+&#8226; full games with online-only functionality which require an Internet connection to access all gameplay and functionality (&#8220;Online-Hosted Service Games&#8221;); 
+
+&#8226; extra content related to Games with Services and Online-Hosted Service Games which provides access to additional in-game content; 
+
+&#8226; subscriptions, such as EA Play and EA Play Pro, that generally offer access to a selection of full games, in-game content, online services and other benefits typically for a recurring monthly or annual fee; and 
+
+&#8226; licensing to third parties to distribute and host our games and content. 
+
+We evaluate and recognize revenue by: 
+
+&#8226; identifying the contract(s) with the customer; 
+
+&#8226; identifying the performance obligations in the contract; 
+
+&#8226; determining the transaction price; 
+
+&#8226; allocating the transaction price to performance obligations in the contract; and 
+
+&#8226; recognizing revenue as each performance obligation is satisfied through the transfer of a promised good or service to a customer (i.e., &#8220;transfer of control&#8221;). 
+
+Certain of our full game and/or extra content are sold to resellers with a contingency that the full game and/or extra content cannot be resold prior to a specific date (&#8220;Street Date Contingency&#8221;). We recognize revenue for transactions that have a Street Date Contingency when the Street Date Contingency is removed and the full game and/or extra content can be resold by the reseller. For digital full game and/or extra content downloads sold to customers, we recognize revenue when the full game and/or extra content is made available for download to the customer. 
+
+Online-Enabled Games 
+
+Games with Services. Our sales of Games with Services are evaluated to determine whether the software license, future update rights and the online hosting are distinct and separable. Sales of Games with Services are generally determined to have three distinct performance obligations: software license, future update rights, and the online hosting. 
+
+Since we do not sell the performance obligations on a stand-alone basis, we consider market conditions and other observable inputs to estimate the stand-alone selling price for each performance obligation. For Games with Services, generally 75 percent of the sales price is allocated to the software license performance obligation and recognized at a point in time when control of the license has been transferred to the customer. The remaining 25 percent is allocated to the future update rights and the online hosting performance obligations and recognized ratably as the service is provided (over the Estimated Offering Period). 
+
+Online-Hosted Service Games. Sales of our Online-Hosted Service Games are determined to have one distinct performance obligation: the online hosting. We recognize revenue from these arrangements ratably as the service is provided (over the Estimated Offering Period). 
+
+Extra Content. Revenue received from sales of downloadable content are derived primarily from the sale of virtual currencies and digital in-game content that are designed to extend and enhance players&#8217; game experience. Sales of extra content are accounted for in a manner consistent with the treatment for our Games with Services and Online-Hosted Service Games as discussed above, depending upon whether or not the extra content has offline functionality. That is, if the extra content has offline functionality, then the extra content is accounted for similarly to Games with Services (generally determined to have three distinct performance obligations: software license, future update rights, and the online hosting). If the extra content does not have offline functionality, then the extra content is determined to have one distinct performance obligation: the online-hosted service. 
+
+Subscriptions 
+
+Sales of our subscriptions are deemed to be one performance obligation, the online hosting, and we recognize revenue from these arrangements ratably over the subscription term as the performance obligation is satisfied. 
+
+Licensing Revenue 
+
+We utilize third-party licensees to distribute and host our games and content in accordance with license agreements, for which the licensees typically pay us a fixed minimum guarantee and/or sales-based royalties. These arrangements typically include multiple performance obligations, such as a time-based license of software and future update rights. We recognize as revenue a portion of the minimum guarantee when we transfer control of the license of software (generally upon commercial launch) and the remaining portion ratably over the contractual term in which we provide the licensee with future update rights. Any sales-based royalties are generally recognized as the related sales occur by the licensee. 
+
+Significant Judgments around Revenue Arrangements 
+
+Identifying performance obligations. Performance obligations promised in a contract are identified based on the goods and services that will be transferred to the customer that are both capable of being distinct, (i.e., the customer can benefit from the goods or services either on its own or together with other resources that are readily available), and are distinct in the context of the contract (i.e., it is separately identifiable from other goods or services in the contract). To the extent a contract includes multiple promises, we must apply judgment to determine whether those promises are separate and distinct performance obligations. If these criteria are not met, the promises are accounted for as a combined performance obligation. 
+
+Determining the transaction price. The transaction price is determined based on the consideration that we will be entitled to receive in exchange for transferring our goods and services to the customer. Determining the transaction price often requires judgment, based on an assessment of contractual terms and business practices. It further includes review of variable consideration such as discounts, sales returns, price protection, and rebates, which is estimated at the time of the transaction. In addition, the transaction price does not include an estimate of the variable consideration related to sales-based royalties. Sales-based royalties are recognized as the sales occur. 
+
+Allocating the transaction price. Allocating the transaction price requires that we determine an estimate of the relative stand-alone selling price for each distinct performance obligation. Determining the relative stand-alone selling price is inherently subjective, especially in situations where we do not sell the performance obligation on a stand-alone basis (which occurs in the majority of our transactions). In those situations, we determine the relative stand-alone selling price based on various observable inputs using all information that is reasonably available. Examples of observable inputs and information include: historical internal pricing data, cost plus margin analysis, pre-release versus post-release costs, and pricing data from competitors to the extent the data is available. The results of our analysis resulted in a specific percentage of the transaction price being allocated to each performance obligation. 
+
+Determining the Estimated Offering Period. The offering period is the period in which we offer to provide the future update rights and/or online hosting for the game and related extra content sold. Because the offering period is not an explicitly defined period, we must make an estimate of the offering period for the service-related performance obligations (i.e., future update rights and online hosting). Determining the Estimated Offering Period is inherently subjective and is subject to regular revision. Generally, we consider the average period of time customers are online when estimating the offering period. We also consider the estimated period of time between the date a game unit is sold to a reseller and the date the reseller sells the game unit to the customer (i.e., time in channel). Based on these two factors, we then consider the method of distribution. For example, games and extra content sold at retail would have a composite offering period equal to the online gameplay period plus time in channel as opposed to digitally-distributed games and extra content which are delivered immediately via digital download and therefore, the offering period is estimated to be only the online gameplay period. 
+
+Additionally, we consider results from prior analyses, known and expected online gameplay trends, as well as disclosed service periods for competitors&#8217; games in determining the Estimated Offering Period for future sales. We believe this provides a reasonable depiction of the transfer of future update rights and online hosting to our customers, as it is the best representation of the time period during which our games and extra content are experienced. We recognize revenue for future update rights and online hosting performance obligations ratably on a straight-line basis over this period as there is a consistent pattern of delivery for these performance obligations. Revenue for service-related performance obligations for digitally-distributed games and extra content is recognized over an estimated eight-month period beginning in the month of sale, revenue for service-related performance obligations for games and extra content sold through retail is recognized over an estimated ten-month period beginning in the month of sale, and revenue for service related performance obligations related to our PC and console free-to-play games is recognized generally over a twelve-month period beginning in the month of sale. 
+
+Principal Agent Considerations 
+
+We evaluate sales to end customers of our full games and related content via third-party storefronts, including digital storefronts such as Microsoft&#8217;s Xbox Store, Sony&#8217;s PlayStation Store, Apple App Store, and Google Play Store, in order to determine whether or not we are acting as the principal in the sale to the end customer, which we consider in determining if revenue should be reported gross or net of fees retained by the third-party storefront. An entity is the principal if it controls a good or service before it is transferred to the end customer. Key indicators that we evaluate in determining gross versus net treatment include but are not limited to the following: 
+
+&#8226; the underlying contract terms and conditions between the various parties to the transaction; 
+
+&#8226; which party is primarily responsible for fulfilling the promise to provide the specified good or service to the end customer; 
+
+&#8226; which party has discretion in establishing the price for the specified good or service; and 
+
+&#8226; which party has title risk before the specified good or service has been transferred to the end customer. 
+
+Based on an evaluation of the above indicators, except as discussed below, we have determined that generally the third party is considered the principal to end customers for the sale of our full games and related content. We therefore report revenue related to these arrangements net of the fees retained by the storefront. However, for sales arrangements via Apple App Store and Google Play Store, EA is considered the principal to the end customer and thus, we report revenue on a gross basis and mobile platform fees are reported within cost of revenue. 
+
+Payment Terms 
+
+Substantially all of our transactions have payment terms, whether customary or on an extended basis, of less than one year; therefore, we generally do not adjust the transaction price for the effects of any potential financing components that may exist. 
+
+Sales and Value-Added Taxes 
+
+Revenue is recorded net of taxes assessed by governmental authorities that are imposed at the time of the specific revenue-producing transaction between us and our customer, such as sales and value-added taxes. 
+
+Sales Returns and Price Protection Reserves 
+
+Sales returns and price protection are considered variable consideration under ASC 606. We reduce revenue for estimated future returns and price protection which may occur with our distributors and retailers (&#8220;channel partners&#8221;). Price protection represents our practice to provide our channel partners with a credit allowance to lower their wholesale price on a particular game unit that they have not resold to customers. The amount of the price protection for permanent markdowns is the difference between the old wholesale price and the new reduced wholesale price. Credits are also given for short-term promotions that temporarily reduce the wholesale price. In certain countries we also have a practice for allowing channel partners to return older products in the channel in exchange for a credit allowance. 
+
+When evaluating the adequacy of sales returns and price protection reserves, we analyze the following: historical credit allowances, current sell-through of our channel partners&#8217; inventory of our products, current trends in retail and the video game industry, changes in customer demand, acceptance of our products, and other related factors. In addition, we monitor the volume of sales to our channel partners and their inventories, as substantial overstocking in the distribution channel could result in high returns or higher price protection in subsequent periods. 
+
+Taxes Collected from Customers and Remitted to Governmental Authorities 
+
+Taxes assessed by a government authority that are both imposed on and concurrent with specific revenue transactions between us and our customers are presented on a net basis in our Consolidated Statements of Operations. 
+
+Concentration of Credit Risk and Significant Customers 
+
+We extend credit to various customers. Collection of trade receivables may be affected by changes in economic or other industry conditions and may, accordingly, impact our overall credit risk. Although we generally do not require collateral, we perform ongoing credit evaluations of our customers and maintain reserves for potential credit losses. Invoices are aged based on contractual terms with our customers. The provision for doubtful accounts is recorded as a charge to general and administrative expense when a potential loss is identified. Losses are written off against the allowance when the receivable is determined to be uncollectible. At March 31, 2024, we had two customers who accounted for approximately 32 percent and 27 percent of our consolidated gross receivables, respectively. At March 31, 2023, we had two customers who accounted for approximately 32 percent and 30 percent of our consolidated gross receivables, respectively. 
+
+A majority of our sales are made via digital resellers, channel and platform partners. During the fiscal years 2024, 2023, and 2022, approximately 80 percent, 81 percent, and 77 percent, respectively, of our net revenue was derived from our top ten customers and/or platform partners. 
+
+Currently, a majority of our revenue is derived through sales of products and services playable on hardware consoles from Sony and Microsoft. For the fiscal years ended March 31, 2024, 2023, and 2022, our net revenue for products and services on Sony&#8217;s PlayStation 4 and 5, and Microsoft&#8217;s Xbox One and Series X consoles (combined across all four platforms) was approximately 59 percent, 58 percent, and 60 percent, respectively. These platform partners have significant influence over the products and services that we offer on their platforms. 
+
+Short-term investments are placed with high quality financial institutions or in short-duration, investment-grade securities. We limit the amount of credit exposure in any one financial institution or type of investment instrument. 
+
+Royalties and Licenses 
+
+Royalty-based obligations with content licensors and distribution affiliates are either paid in advance and capitalized as prepaid royalties or are accrued as incurred and subsequently paid. These royalty-based obligations are generally expensed to cost of revenue at the greater of the contractual rate or an effective royalty rate based on the total projected net revenue for contracts with guaranteed minimums. Prepayments made to thinly capitalized independent software developers and co-publishing affiliates are generally made in connection with the development of a particular product, and therefore, we are subject to development risk prior to the release of the product. Accordingly, payments that are due prior to completion of a product are generally expensed to research and development over the development period as the services are incurred. Payments due after completion of the product (primarily royalty-based in nature) are generally expensed as cost of revenue. 
+
+Our contracts with some licensors include minimum guaranteed royalty payments, which are initially recorded as an asset and as a liability at the contractual amount when no performance remains with the licensor. When performance remains with the licensor, we record guarantee payments as an asset when actually paid and as a liability when incurred, rather than recording the asset and liability upon execution of the contract. 
+
+Each quarter, we also evaluate the expected future realization of our royalty-based assets, as well as any unrecognized minimum commitments not yet paid to determine amounts we deem unlikely to be realized through future revenue. Any impairments or losses determined before the launch of a product are generally charged to research and development expense. Impairments or losses determined post-launch are charged to cost of revenue. We evaluate long-lived royalty-based assets for impairment using undiscounted cash flows when impairment indicators exist. If an impairment exists, then the related assets are written down to fair value. Unrecognized minimum royalty-based commitments are recognized when the underlying intellectual property is abandoned (i.e., the date EA commits to cease use of the IP) or the contractual rights to use the intellectual property are terminated. 
+
+Advertising Costs 
+
+We generally expense advertising costs as incurred, except for production costs associated with media campaigns, which are recognized as prepaid assets (to the extent paid in advance) and expensed at the first run of the advertisement. We are reimbursed by our vendors for certain advertising costs incurred by us that benefit our vendors. Such amounts are recognized as a reduction of marketing and sales expense if the advertising (1) is specific to the vendor, (2) represents an identifiable benefit to us, and (3) represents an incremental cost to us. Vendor reimbursements of advertising costs of $ 12 million, $ 37 million, and $ 37 million reduced marketing and sales expense for the fiscal years ended March 31, 2024, 2023, and 2022, respectively. For the fiscal years ended March 31, 2024, 2023, and 2022, advertising expense, net of vendor reimbursements, totaled approximately $ 375 million, $ 348 million, and $ 396 million, respectively. 
+
+Software Development Costs 
+
+Research and development costs, which consist primarily of software development costs, are expensed as incurred. We are required to capitalize software development costs incurred for computer software to be sold, leased or otherwise marketed after technological feasibility of the software is established or for development costs that have alternative future uses. Under our current practice of developing new games, the technological feasibility of the underlying software is not established until substantially all product development and testing is complete, which generally includes the development of a working model. Software development costs that have been capitalized to date have been insignificant. 
+
+Foreign Currency Translation 
+
+Generally, the functional currency for our foreign operating subsidiaries is its local currency. Assets and liabilities of foreign operations are translated into U.S. dollars using month-end exchange rates, and revenue and expenses are translated into U.S. dollars using average exchange rates. The effects of foreign currency translation adjustments are included as a component of accumulated other comprehensive income (loss) in stockholders&#8217; equity. 
+
+Foreign currency transaction gains and losses are a result of the effect of exchange rate changes on transactions denominated in currencies other than the functional currency. Net gains (losses) on foreign currency transactions of $( 10 ) million, $ 31 million, and $( 22 ) million for the fiscal years ended March 31, 2024, 2023, and 2022, respectively, are included in interest and other income (expense), net, in our Consolidated Statements of Operations. These net gains (losses) on foreign currency transactions are partially offset by net gains (losses) on our foreign currency forward contracts of $ 12 million, $( 29 ) million, and $ 21 million for the fiscal years ended March 31, 2024, 2023, and 2022, respectively. See Note 5 for additional information on our foreign currency forward contracts. 
+
+Income Taxes 
+
+We recognize deferred tax assets and liabilities for both the expected impact of differences between the financial statement amount and the tax basis of assets and liabilities and for the expected future tax benefit to be derived from tax losses and tax credit carryforwards. We do not recognize any deferred taxes related to the U.S. taxes on foreign earnings as we recognize these taxes as a period cost. 
+
+Every quarter, we perform a realizability analysis to evaluate whether it is more likely than not that all or a portion of our deferred tax assets will not be realized. Our Swiss deferred tax asset realizability analysis relies upon future Swiss taxable income as the primary source of taxable income but considers all available sources of Swiss income based on the positive and negative evidence. We give more weight to evidence that can be objectively verified. However, estimating future Swiss taxable income requires judgment, specifically related to assumptions about expected growth rates of future Swiss taxable income, which are based primarily on third party market and industry growth data. Actual results that differ materially from those estimates could have a material impact on our valuation allowance assessment. Although objectively verifiable, Swiss interest rates have an impact on the valuation allowance and are based on published Swiss guidance. Any significant changes to such interest rates could result in a material impact to the valuation allowance. Switzerland has a seven-year carryforward period and does not permit the carry back of losses. Actions we take in connection with acquisitions could also impact the utilization of our Swiss deferred tax asset. 
+
+Stock Repurchases 
+
+Shares of our common stock repurchased pursuant to our repurchase program, if any, are retired. The purchase price of such repurchased shares of common stock is recorded as a reduction to additional paid-in capital. If the balance in additional paid-in capital is exhausted, the excess is recorded as a reduction to retained earnings. 
+
+Restructuring 
+
+We generally recognize employee severance costs when payments are probable and amounts are estimable or when notification occurs, depending on the region in which an employee works. Costs related to non-lease contracts without future benefit or contract termination are recognized at the earlier of the contract termination or the cease-use dates. Other exit-related costs are recognized as incurred.

@@ -1,0 +1,1706 @@
+ Item 8. Financial Statements and Supplementary Data. 
+
+&#160; 
+
+See financial statements included in Item 15 &#8220; Exhibits, Financial Statement Schedules &#8221; of this Annual Report. 
+
+&#160; 
+
+
+
+------
+
+ Item 15. Exhibits, Financial Statement Schedules. 
+
+##TABLE_START (a) Documents filed as part of this report &#160; (a)(1) Financial Statements &#160; &#160; &#160; Audited Consolidated Financial Statements of DraftKings Inc. for the years ended December 31, 2023, December 31, 2022 and December 31, 2021: &#160; 
+
+Reports of Independent Registered Public Accounting Firm ( BDO USA P.C.) ; Boston, Massachusetts ; PCAOB ID# 243 ) 
+
+Consolidated Balance Sheets 
+
+F-1 
+
+Consolidated Statements of Operations 
+
+F-3 
+
+Consolidated Statements of Comprehensive Loss 
+
+F-4 
+
+Consolidated Statements of Changes in Stockholders' Equity 
+
+F-5 
+
+Consolidated Statements of Cash Flows 
+
+F-7 
+
+Notes to the Consolidated Financial Statements 
+
+F-9 
+
+&#160; (2) Financial Statement Schedule &#160; Financial statement schedules have been omitted because they are either not required or not applicable or the information is included in the consolidated financial statements or the notes thereto. &#160; (3) Exhibits: The exhibits to this report are listed in the exhibit index below. (3)(b) Description of Exhibits 
+
+Exhibit Index 
+
+##TABLE_END
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+Stockholders and Board of Directors 
+
+DraftKings Inc. 
+
+Boston, Massachusetts 
+
+Opinion on the Consolidated Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of DraftKings Inc. (the &#8220;Company&#8221;) as of December 31, 2023 and 2022, the related consolidated statements of operations, comprehensive loss, changes in stockholders&#8217; equity, and cash flows for each of the three years in the period ended December 31, 2023, and the related notes (collectively referred to as the &#8220;consolidated financial statements&#8221;). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2023 and 2022, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2023 , in conformity with accounting principles generally accepted in the United States of America. 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (&#8220;PCAOB&#8221;), the Company's internal control over financial reporting as of December 31, 2023, based on criteria established in Internal Control &#8211; Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (&#8220;COSO&#8221;) and our report dated February 16, 2024 expressed an unqualified opinion thereon. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the responsibility of the Company&#8217;s management. Our responsibility is to express an opinion on the Company&#8217;s consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Assessment of the probability of achieving the vesting performance criteria of performance-based stock compensation plan awards 
+
+As described in Notes 2 and 11 to the consolidated financial statements, the Company issues stock options and other stock awards to employees with performance-based vesting conditions pursuant to its performance-based stock compensation plan (&#8220;PSP Awards&#8221;). The Company recognizes compensation cost for PSP Awards on a tranche-by-tranche basis (the accelerated attribution method), based on the probability of achieving the performance criteria. PSP Awards granted in 2023 and 2022 vest based on achievement of revenue and Adjusted EBITDA targets and have a range of payouts from 0% to 200%. For the year ended December 31, 2023, stock-based compensation expense attributable to all PSP Awards was $126.1 million. 
+
+We identified the assessment of the probability of achieving the performance-based vesting criteria and the related estimated payment of certain PSP Awards as a critical audit matter. The revenue and Adjusted EBITDA projections used in the probability assessment for certain PSP Awards require significant judgement due to the subjectivity of the revenue growth rates, Adjusted EBITDA margins and certain other assumptions used in the projections. Auditing these elements required especially challenging and subjective auditor judgment due to the nature and extent of effort required to address these matters. 
+
+The primary procedures we performed to address this critical audit matter included evaluating the reasonableness of the revenue growth rates, Adjusted EBITDA margins and certain other assumptions used in the projections by: 
+
+&#8226; Comparing the Company&#8217;s revenue and Adjusted EBITDA projections for the current year to current year results. 
+
+&#8226; Evaluating the consistency of the revenue growth rates and certain other assumptions with external industry data. 
+
+&#8226; Comparing the forecasted growth in revenue, forecasted Adjusted EBITDA margins and certain other assumptions to 
+
+historical results. 
+
+/s/ BDO USA, P.C. 
+
+We have served as the Company's auditor since 2016. 
+
+Boston, Massachusetts 
+
+February 16, 2024 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+Stockholders and Board of Directors 
+
+DraftKings Inc. 
+
+Boston, Massachusetts 
+
+Opinion on Internal Control over Financial Reporting 
+
+We have audited DraftKings Inc.&#8217;s (the &#8220;Company&#8217;s&#8221;) internal control over financial reporting as of December 31, 2023, based on criteria established in Internal Control &#8211; Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (the &#8220;COSO criteria&#8221;). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2023, based on the COSO criteria . 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (&#8220;PCAOB&#8221;), the consolidated balance sheets of the Company as of December 31, 2023 and 2022, the related consolidated statements of operations, comprehensive loss, changes in stockholders&#8217; equity, and cash flows for each of the three years in the period ended December 31, 2023, and the related notes and our report dated February 16, 2024 expressed an unqualified opinion thereon. 
+
+Basis for Opinion 
+
+The Company&#8217;s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying, &#8220;Item 9A, Management&#8217;s Report on Internal Control over Financial Reporting&#8221;. Our responsibility is to express an opinion on the Company&#8217;s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit of internal control over financial reporting in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+
+Definition and Limitations of Internal Control over Financial Reporting 
+
+A company&#8217;s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company&#8217;s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company&#8217;s assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+/s/ BDO USA, P.C. 
+
+Boston, Massachusetts 
+
+February 16, 2024 
+
+DRAFTKINGS INC. 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(Amounts in thousands, except par value) 
+
+&#160; 
+
+##TABLE_START December 31, &#160; 2023 2022 Assets &#160; &#160; Current assets: &#160; &#160; Cash and cash equivalents $ 1,270,503 &#160; $ 1,309,172 &#160; Restricted cash 11,700 &#160; &#8212; &#160; Cash reserved for users 341,290 &#160; 469,653 &#160; Receivables reserved for users 301,770 &#160; 160,083 &#160; Accounts receivable 47,539 &#160; 51,097 &#160; Prepaid expenses and other current assets 98,565 &#160; 94,836 &#160; Total current assets 2,071,367 &#160; 2,084,841 &#160; Property and equipment, net 60,695 &#160; 60,102 &#160; Intangible assets, net 690,620 &#160; 776,934 &#160; Goodwill 886,373 &#160; 886,373 &#160; Operating lease right-of-use assets 93,985 &#160; 65,957 &#160; Equity method investments 10,280 &#160; 10,080 &#160; Deposits and other non-current assets 131,546 &#160; 155,865 &#160; Total assets $ 3,944,866 &#160; $ 4,040,152 &#160; Liabilities and Stockholders&#8217; equity Current liabilities: Accounts payable and accrued expenses $ 639,599 &#160; $ 517,587 &#160; Liabilities to users 851,898 &#160; 686,173 &#160; Operating lease liabilities, current portion 11,499 &#160; 4,253 &#160; Other current liabilities 46,624 &#160; 38,444 &#160; Total current liabilities 1,549,620 &#160; 1,246,457 &#160; Convertible notes, net of issuance costs 1,253,760 &#160; 1,251,103 &#160; Non-current operating lease liabilities 80,827 &#160; 69,332 &#160; Warrant liabilities 63,568 &#160; 10,680 &#160; Long-term income tax liabilities 72,810 &#160; 69,858 &#160; Other long-term liabilities 83,975 &#160; 70,029 &#160; Total liabilities $ 3,104,560 &#160; $ 2,717,459 &#160; Commitments and contingent liabilities (Notes 7 and 15) Stockholders&#8217; equity: &#160; &#160; Class A common stock, $ 0.0001 par value; 900,000 shares authorized as of December 31, 2023 and December 31, 2022, respectively; 484,598 and 459,265 shares issued and 472,697 and 450,575 outstanding at December 31, 2023 and December 31, 2022, respectively 
+
+$ 46 &#160; $ 45 &#160; Class B common stock, $ 0.0001 par value; 900,000 shares authorized as of December 31, 2023 and December 31, 2022; 393,014 shares issued and outstanding at December 31, 2023 and December 31, 2022 
+
+39 &#160; 39 &#160; Treasury stock, at cost; 11,901 and 8,690 shares as of December 31, 2023 and December 31, 2022, respectively 
+
+( 412,182 ) ( 332,133 ) Additional paid-in capital 7,149,858 &#160; 6,750,055 &#160; Accumulated deficit ( 5,933,943 ) ( 5,131,801 ) Accumulated other comprehensive income 36,488 &#160; 36,488 &#160; Total stockholders&#8217; equity 840,306 &#160; 1,322,693 &#160; Total liabilities and stockholders&#8217; equity $ 3,944,866 &#160; $ 4,040,152 &#160; ##TABLE_END
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+See accompanying notes to consolidated financial statements. 
+
+&#160; 
+
+F-1 
+
+DRAFTKINGS INC. 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+(Amounts in thousands, except per share amounts) 
+
+&#160; 
+
+##TABLE_START &#160; Years ended December 31, &#160; 2023 2022 2021 Revenue $ 3,665,393 &#160; $ 2,240,461 &#160; $ 1,296,025 &#160; Cost of revenue 2,292,175 &#160; 1,484,273 &#160; 794,162 &#160; Sales and marketing 1,200,718 &#160; 1,185,977 &#160; 981,500 &#160; Product and technology 355,156 &#160; 318,247 &#160; 253,655 &#160; General and administrative 606,569 &#160; 763,720 &#160; 828,325 &#160; Loss from operations ( 789,225 ) ( 1,511,756 ) ( 1,561,617 ) Other income (expense): Interest income 58,418 &#160; 21,353 &#160; 4,066 &#160; Interest expense ( 2,679 ) ( 2,651 ) ( 2,109 ) (Loss) gain on remeasurement of warrant liabilities ( 57,543 ) 29,396 &#160; 30,065 &#160; Other (loss) gain, net ( 224 ) 20,700 &#160; 11,951 &#160; Loss before income tax provision (benefit) and loss (income) from equity method investment ( 791,253 ) ( 1,442,958 ) ( 1,517,644 ) Income tax (benefit) provision 10,170 &#160; ( 67,866 ) 8,269 &#160; Loss (income) from equity method investment 719 &#160; 2,895 &#160; ( 2,718 ) Net loss attributable to common stockholders $ ( 802,142 ) $ ( 1,377,987 ) $ ( 1,523,195 ) Loss per share attributable to common stockholders: Basic and diluted $ ( 1.73 ) $ ( 3.16 ) $ ( 3.78 ) ##TABLE_END
+
+&#160; 
+
+See accompanying notes to consolidated financial statements. 
+
+&#160; 
+
+Due to the timing of the GNOG Transaction (as defined below), the above periods exclude the operations of GNOG (as defined below) prior to the closing date of May 5, 2022. 
+
+F-2 
+
+DRAFTKINGS INC. 
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+
+(Amounts in thousands) 
+
+&#160; 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Net loss attributable to common stockholders $ ( 802,142 ) $ ( 1,377,987 ) $ ( 1,523,195 ) Other comprehensive (loss) income Foreign currency translation adjustments, net of nil tax 
+
+&#8212; &#160; &#8212; &#160; ( 47,046 ) Comprehensive loss $ ( 802,142 ) $ ( 1,377,987 ) $ ( 1,570,241 ) ##TABLE_END
+
+&#160; 
+
+See accompanying notes to consolidated financial statements. 
+
+Due to the timing of the GNOG Transaction (as defined below), the above periods exclude the operations of GNOG (as defined below) prior to the closing date of May 5, 2022. 
+
+&#160; 
+
+F-3 
+
+DRAFTKINGS INC. 
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS&#8217; EQUITY 
+
+(Amounts in thousands) 
+
+##TABLE_START Class A Common Stock Class B Common Stock Additional Paid in Capital Accumulated Deficit Accumulated Other Comprehensive Income Treasury Stock Amount Total Stockholders' Equity Shares Amount Shares Amount Balances at December 31, 2022 450,575 &#160; $ 45 &#160; 393,014 &#160; $ 39 &#160; $ 6,750,055 &#160; $ ( 5,131,801 ) $ 36,488 &#160; $ ( 332,133 ) $ 1,322,693 &#160; Exercise of stock options 3,943 &#160; &#8212; &#8212; &#8212; 16,540 &#160; &#8212; &#8212; &#8212; 16,540 &#160; Stock-based compensation expense &#8212; &#8212; &#8212; &#8212; 378,321 &#160; &#8212; &#8212; &#8212; 378,321 &#160; Equity consideration issued for acquisitions &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; Exercise of warrants 153 &#160; &#8212; &#8212; &#8212; 4,942 &#160; &#8212; &#8212; &#8212; 4,942 &#160; Purchase of treasury stock ( 3,211 ) &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; ( 80,049 ) ( 80,049 ) Restricted stock unit vesting 21,237 &#160; 1 &#160; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 1 &#160; Net loss &#8212; &#8212; &#8212; &#8212; &#8212; ( 802,142 ) &#8212; &#8212; ( 802,142 ) Balances at December 31, 2023 472,697 &#160; $ 46 &#160; 393,014 &#160; $ 39 &#160; $ 7,149,858 &#160; $ ( 5,933,943 ) $ 36,488 &#160; $ ( 412,182 ) $ 840,306 &#160; ##TABLE_END
+
+##TABLE_START Class A Common Stock Class B Common Stock Additional Paid in Capital Accumulated Deficit Accumulated Other Comprehensive Income Treasury Stock Amount Total Stockholders' Equity Shares Amount Shares Amount Balances at December 31, 2021 407,781 &#160; $ 41 &#160; 393,014 &#160; $ 39 &#160; $ 5,702,388 &#160; $ ( 3,753,814 ) $ 36,488 &#160; $ ( 306,614 ) $ 1,678,528 &#160; Exercise of stock options 3,267 &#160; &#8212; &#8212; &#8212; 8,743 &#160; &#8212; &#8212; &#8212; 8,743 &#160; Stock-based compensation expense &#8212; &#8212; &#8212; &#8212; 578,799 &#160; &#8212; &#8212; &#8212; 578,799 &#160; Equity consideration issued for acquisition 29,252 &#160; 3 &#160; &#8212; &#8212; 460,125 &#160; &#8212; &#8212; &#8212; 460,128 &#160; Purchase of treasury stock ( 1,560 ) &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; ( 25,519 ) ( 25,519 ) Restricted stock unit vesting 11,835 &#160; 1 &#160; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 1 &#160; Net loss &#8212; &#8212; &#8212; &#8212; &#8212; ( 1,377,987 ) &#8212; &#8212; ( 1,377,987 ) Balances at December 31, 2022 450,575 &#160; $ 45 &#160; 393,014 &#160; $ 39 &#160; $ 6,750,055 &#160; $ ( 5,131,801 ) $ 36,488 &#160; $ ( 332,133 ) $ 1,322,693 &#160; ##TABLE_END
+
+F-4 
+
+##TABLE_START Class A Common Stock Class B Common Stock Additional Paid in Capital Accumulated Deficit Accumulated Other Comprehensive Income Treasury Stock Amount Total Stockholders' Equity Shares Amount Shares Amount Balances at December 31, 2020 396,303 &#160; $ 40 &#160; 393,014 &#160; $ 39 &#160; $ 5,067,135 &#160; $ ( 2,230,619 ) $ 83,534 &#160; $ ( 288,784 ) $ 2,631,345 &#160; Exercise of stock options 9,421 &#160; 1 &#160; &#8212; &#8212; 31,478 &#160; &#8212; &#8212; &#8212; 31,479 &#160; Stock-based compensation expense &#8212; &#8212; &#8212; &#8212; 683,293 &#160; &#8212; &#8212; &#8212; 683,293 &#160; Purchase of capped call options &#8212; &#8212; &#8212; &#8212; ( 123,970 ) &#8212; &#8212; &#8212; ( 123,970 ) Equity consideration issued for acquisition 520 &#160; &#8212; &#8212; &#8212; 33,149 &#160; &#8212; &#8212; &#8212; 33,149 &#160; Exercise of warrants 337 &#160; &#8212; &#8212; &#8212; 9,205 &#160; &#8212; &#8212; &#8212; 9,205 &#160; Purchase of treasury stock ( 323 ) &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; ( 17,830 ) ( 17,830 ) Restricted stock unit vesting 1,523 &#160; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; Foreign currency translation &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; ( 47,046 ) &#8212; ( 47,046 ) Other &#8212; &#8212; &#8212; &#8212; 2,098 &#160; &#8212; &#8212; &#8212; 2,098 &#160; Net loss &#8212; &#8212; &#8212; &#8212; &#8212; ( 1,523,195 ) &#8212; &#8212; ( 1,523,195 ) Balances at December 31, 2021 407,781 &#160; $ 41 &#160; 393,014 &#160; $ 39 &#160; $ 5,702,388 &#160; $ ( 3,753,814 ) $ 36,488 &#160; $ ( 306,614 ) $ 1,678,528 &#160; ##TABLE_END
+
+See accompanying notes to consolidated financial statements. 
+
+Due to the timing of the GNOG Transaction (as defined below), the above periods exclude the operations of GNOG (as defined below) prior to the closing date of May 5, 2022. 
+
+F-5 
+
+DRAFTKINGS INC. 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(Amounts in thousands) 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Cash Flows from Operating Activities: &#160; &#160; &#160; Net loss attributable to common shareholders $ ( 802,142 ) $ ( 1,377,987 ) $ ( 1,523,195 ) Adjustments to reconcile net loss to net cash flows used in operating activities: Depreciation and amortization 201,920 &#160; 169,252 &#160; 121,138 &#160; Non-cash interest expense, net 386 &#160; 870 &#160; 2,109 &#160; Stock-based compensation expense 398,463 &#160; 578,799 &#160; 683,293 &#160; Loss (gain) on remeasurement of warrant liabilities 57,543 &#160; ( 29,396 ) ( 30,065 ) Loss (gain) from equity method investment 719 &#160; 2,895 &#160; ( 2,718 ) Loss (gain) on marketable equity securities and other financial assets, net 75 &#160; ( 10,999 ) ( 11,311 ) Deferred income taxes 5,849 &#160; ( 73,407 ) ( 15,509 ) Other expenses, net 554 &#160; ( 7,268 ) &#8212; &#160; Change in operating assets and liabilities, net of effect of acquisitions: Receivables reserved for users ( 141,687 ) ( 105,320 ) ( 21,700 ) Accounts receivables 3,558 &#160; 2,506 &#160; ( 1,787 ) Prepaid expenses and other current assets 2,451 &#160; ( 26,217 ) ( 10,078 ) Deposits and other non-current assets ( 19,355 ) ( 4,921 ) ( 6,458 ) Operating leases, net 6,558 &#160; 1,304 &#160; ( 1,059 ) Accounts payable and accrued expenses 103,593 &#160; 95,269 &#160; 167,927 &#160; Liabilities to users 165,725 &#160; 152,985 &#160; 210,932 &#160; Long-term income tax liability 2,952 &#160; ( 9,267 ) 13,227 &#160; Other long-term liabilities 11,087 &#160; 15,383 &#160; 5,746 &#160; Net cash flows used in operating activities ( 1,751 ) ( 625,519 ) ( 419,508 ) Cash Flows from Investing Activities: Purchases of property and equipment ( 20,902 ) ( 32,402 ) ( 15,925 ) Cash paid for internally developed software costs ( 80,378 ) ( 64,030 ) ( 46,542 ) Acquisition of gaming licenses ( 12,105 ) ( 7,213 ) ( 35,809 ) Proceeds from (purchase of) marketable equity securities and other financial assets 24,425 &#160; &#8212; &#160; ( 25,000 ) Cash paid for acquisitions, net of cash acquired &#8212; &#160; ( 96,507 ) ( 64,970 ) Other investing activities, net ( 1,400 ) ( 8,614 ) ( 6,776 ) Net cash flows used in investing activities ( 90,360 ) ( 208,766 ) ( 195,022 ) Cash Flow from Financing Activities: Proceeds from issuance of convertible notes, net &#8212; &#160; &#8212; &#160; 1,248,025 &#160; Purchase of capped call options &#8212; &#160; &#8212; &#160; ( 123,970 ) Proceeds from exercise of warrants 288 &#160; 44 &#160; 693 &#160; Purchase of treasury stock ( 80,049 ) ( 25,519 ) ( 17,830 ) Proceeds from exercise of stock options 16,540 &#160; 8,743 &#160; 31,479 &#160; Other financing activities &#8212; &#160; &#8212; &#160; 416 &#160; Net cash flows (used in) provided by financing activities ( 63,221 ) ( 16,732 ) 1,138,813 &#160; Effect of foreign exchange rates on cash and cash equivalents, restricted cash, and cash reserved for users &#8212; &#160; &#8212; &#160; 583 &#160; ##TABLE_END
+
+F-6 
+
+##TABLE_START Net (decrease) increase in cash and cash equivalents, restricted cash, and cash reserved for users ( 155,332 ) ( 851,017 ) 524,866 &#160; Cash and cash equivalents, restricted cash, and cash reserved for users at the beginning of period 1,778,825 &#160; 2,629,842 &#160; 2,104,976 &#160; Cash and cash equivalents, restricted cash, and cash reserved for users at the end of period $ 1,623,493 &#160; $ 1,778,825 &#160; $ 2,629,842 &#160; Disclosure of cash and cash equivalents, restricted cash, and cash reserved for users Cash and cash equivalents $ 1,270,503 &#160; $ 1,309,172 &#160; $ 2,152,892 &#160; Restricted cash 11,700 &#160; &#8212; &#160; &#8212; &#160; Cash reserved for users 341,290 &#160; 469,653 &#160; 476,950 &#160; Cash and cash equivalents, restricted cash, and cash reserved for users at the end of period $ 1,623,493 &#160; $ 1,778,825 &#160; $ 2,629,842 &#160; Supplemental Disclosure of Noncash Investing and Financing Activities: Investing activities included in accounts payable and accrued expenses 569 &#160; 9,155 &#160; ( 3,758 ) Equity consideration issued for acquisitions &#8212; &#160; 460,128 &#160; 33,149 &#160; Decrease in warrant liabilities from cashless exercise of warrants 4,654 &#160; &#8212; &#160; &#8212; &#160; Supplemental Disclosure of Cash Activities: (Decrease) increase in cash reserved for users ( 128,363 ) ( 7,297 ) 189,232 &#160; Cash paid for interest &#8212; &#160; &#8212; &#160; &#8212; &#160; Cash paid for income taxes, net of refunds 8,341 &#160; 10,366 &#160; 5,632 &#160; ##TABLE_END
+
+&#160; 
+
+See accompanying notes to consolidated financial statements. 
+
+&#160; 
+
+Due to the timing of the GNOG Transaction (as defined below), the above periods exclude the operations of GNOG (as defined below) prior to the closing date of May 5, 2022. 
+
+F-7 
+
+DRAFTKINGS INC. 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Amounts in thousands, unless otherwise noted) 
+
+&#160; 
+
+1. Description of Business 
+
+We are a digital sports entertainment and gaming company. We provide users with online sports betting (&#8220;Sportsbook&#8221;), online casino (&#8220;iGaming&#8221;) and daily fantasy sports (&#8220;DFS&#8221;) product offerings, as well as retail sportsbook, media and other consumer product offerings. We are also involved in the design and development of sports betting and casino gaming software for online and retail sportsbooks and iGaming operators. 
+
+In May 2018, the Supreme Court (the &#8220;Court&#8221;) struck down on constitutional grounds the Professional and Amateur Sports Protection Act of 1992 (&#8220;PASPA&#8221;), a law that prohibited most states from authorizing and regulating sports betting. Since the Court&#8217;s decision, many states have legalized sports betting. As of December 31, 2023, 35 U.S. states, the District of Columbia and Puerto Rico have legalized some form of sports betting. Of those 37 legal jurisdictions, 32 have legalized online sports betting. Of those 32 jurisdictions, 30 are live, and DraftKings operates in 23 of them. The U.S jurisdictions with statutes legalizing iGaming are Connecticut, Delaware, Michigan, New Jersey, Pennsylvania, Rhode Island and West Virginia. 
+
+As of December 31, 2023, we operate our online sports betting product offering in Arizona, Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Michigan, Massachusetts, New Hampshire, New Jersey, New York, Oregon, Pennsylvania, Tennessee, Virginia, West Virginia, Wyoming and Ontario, Canada and we operate retail sportsbooks in Arizona, Colorado, Connecticut, Illinois, Iowa, Kansas, Louisiana, Michigan, Mississippi, New Hampshire, New Jersey and Washington. As of December 31, 2023, the Company offers its iGaming product offering in Connecticut, Michigan, New Jersey, Pennsylvania, West Virginia and Ontario, Canada. The Company also has arrangements in place with land-based casinos to expand operations into additional states upon the passing of relevant legislation, the issuance of related regulations and the receipt of required licenses. 
+
+As further discussed in Note 3 hereof entitled &#8220;Acquisition of Golden Nugget Online Gaming, Inc.,&#8221; on May 5, 2022 (the &#8220;GNOG Closing Date&#8221;), DraftKings Inc. (formerly New Duke Holdco, Inc.) consummated the acquisition of Golden Nugget Online Gaming, Inc., a Delaware corporation (together with its subsidiaries unless the context requires otherwise, &#8220;GNOG&#8221;), pursuant to a definitive agreement and plan of merger, dated August 9, 2021 (the &#8220;GNOG Merger Agreement&#8221;), in an all-stock transaction (the &#8220;GNOG Transaction&#8221;). In connection with the GNOG Transaction, DraftKings Inc. undertook a holding company reorganization whereby (i) each share of DraftKings Holdings Inc. (formerly DraftKings Inc.), a Nevada corporation (&#8220;Old DraftKings&#8221;), Class A common stock and Class B common stock was converted on a one -for-one basis into a share of DraftKings Inc. Class A common stock and Class B common stock, respectively, and (ii) DraftKings Inc. became the going-forward public company and the direct parent company of both Old DraftKings and GNOG. DraftKings Inc. is the registrant filing this Annual Report on Form 10-K as the successor registrant for Old DraftKings. Unless otherwise indicated or the context otherwise requires, the terms &#8220;DraftKings&#8221;, the &#8220;Company&#8221;, &#8220;we&#8221;, &#8220;us&#8221; and &#8220;our&#8221; refer to DraftKings Inc. (or, in respect of periods prior to the GNOG Closing Date, Old DraftKings), together with its consolidated subsidiaries. 
+
+&#160; 
+
+&#160; 
+
+2. &#160; Summary of Significant Accounting Policies and Practices 
+
+&#160; 
+
+Basis of Presentation and Principles of Consolidation 
+
+&#160; 
+
+The accompanying consolidated financial statements are presented in conformity with accounting principles generally accepted in the United States of America (&#8220;U.S. GAAP&#8221;) and pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;). The consolidated financial statements include the accounts and operations of the Company and its subsidiaries. All intercompany accounts and transactions are eliminated upon consolidation. Certain amounts, which are not material, in the prior years&#8217; consolidated financial statements have been reclassified to conform to the current year presentation. 
+
+The Company consummated the GNOG Transaction on the GNOG Closing Date. In the GNOG Transaction, the Company was determined to be the accounting acquirer and, as such, the acquisition is considered a business combination under Accounting Standards Codification (&#8220;ASC&#8221;) Topic 805, Business Combinations , and was accounted for using the acquisition method of accounting. These consolidated financial statements include the accounts and operations of the Company, except that, due to the timing of the consummation of the GNOG Transaction, these consolidated financial statements exclude the operations of GNOG prior to the GNOG Closing Date. 
+
+F-8 
+
+&#160; 
+
+Segments 
+
+The Company regularly reviews its operating segments and the approach used by the chief operating decision maker (&#8220;CODM&#8221;) to evaluate performance and allocate resources. Prior to the fourth quarter of 2022, the Company had two distinct operating segments: a business-to-consumer (&#8220;B2C&#8221;) segment, which included its Sportsbook, iGaming and DFS product offerings, as well as media and other consumer product offerings, and a business-to-business (&#8220;B2B&#8221;) segment, which had principal activities involving the design and development of gaming software. 
+
+However, beginning in the fourth quarter of 2022, as a result of the Company&#8217;s integration of the technology and expertise of SBTech, the Company began to view the B2B segment primarily as a cost center of the B2C segment and, therefore, began to operate its business and report its results as a single operating segment. The Company&#8217;s determination that it operates as a single segment is consistent with the CODM's regular review of consolidated financial information for the purposes of evaluating performance, allocating resources and planning and forecasting for future periods. Prior periods have been reclassified to conform to the new segment presentation. 
+
+Foreign Currency and Comprehensive Loss 
+
+&#160; 
+
+Prior to January 1, 2022, the Company's reporting currency was the U.S. dollar while the functional currency of the Company&#8217;s significant non-U.S. subsidiaries was the Euro. The financial statements of the Company&#8217;s significant non-U.S. subsidiaries were translated into United States dollars in accordance with ASC 830, Foreign Currency Matters , using period-end rates of exchange for assets and liabilities, and average rates of exchange for the period for revenues, costs and expenses and historical rates for equity. For the period ending December 31, 2021, the translation gain is included in the consolidated statements of comprehensive loss. Effective as of January 1, 2022, the Company&#8217;s reporting currency remained the U.S. dollar and the functional currency of the Company's significant non-U.S. subsidiaries&#8217; functional currency was changed from the Euro to the U.S. dollar. Accordingly, the Company did not have to translate the financial statements of its significant non-U.S. subsidiaries for the years ended December 31, 2023 and 2022. 
+
+During 2023, 2022 and 2021, foreign currency transactions did not have a material impact on net loss. 
+
+&#160; 
+
+Use of Estimates 
+
+&#160; 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. Significant estimates and assumptions reflected in the financial statements relate to and include, but are not limited to, the valuation and expensing of equity awards, accounting for contingencies and uncertainties, purchase price allocations, including fair value estimates of intangible assets, the estimated useful lives of fixed assets and intangible assets, internally developed software costs and accrued expenses. 
+
+&#160; 
+
+Going Concern 
+
+&#160; 
+
+The Company currently expects that its cash will be sufficient to fund its operating expenses and capital expenditure requirements for at least twelve months after February 16, 2024. The Company has experienced operating losses and negative operating cash flows for the years ended December 31, 2023, 2022 and 2021. While certain jurisdictions will experience improved operating cash flow, the Company expects to continue to incur annual operating losses for the next twelve months. 
+
+&#160; 
+
+Concentration Risks and Uncertainties 
+
+&#160; 
+
+Financial instruments that potentially subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents, restricted cash, and cash reserved for users. The Company maintains separate accounts for cash and cash reserved for users primarily across several financial institutions. Some of the amounts held exceed federally insured limits. Management believes all financial institutions holding its cash are of high credit quality and does not believe the Company is subject to unusual credit risk beyond the normal credit risk associated with commercial banking relationships. 
+
+&#160; 
+
+The Company relies on a limited number of vendors to support operations. In particular, a single vendor is currently the primary provider of web services that allow the Company to host its Sportsbook, iGaming and DFS product offerings. Any 
+
+F-9 
+
+interruption in the services provided by this supplier could have a material adverse effect on its business, financial condition and results of operations. 
+
+The Company&#8217;s growth prospects and market potential will depend on its ability to obtain and maintain licenses to operate in a number of jurisdictions, and if the Company fails to obtain and maintain such licenses, its business, financial condition, results of operations and prospects could be impaired. 
+
+We conduct business in numerous countries that carry high levels of currency, political, compliance and economic risk. For example, we have offices in Ukraine and Israel, and the military conflict between Russia and Ukraine and the evolving conflict in Israel and Gaza and any business interruptions or other spillover effects from such conflicts could adversely affect our operations. 
+
+Business Combinations 
+
+&#160; 
+
+The Company accounts for business combinations under the acquisition method of accounting, in accordance with ASC 805, which requires assets acquired and liabilities assumed to be recognized at their fair values as of the acquisition date. Any fair value of purchase consideration in excess of the fair value of the assets acquired less liabilities assumed is recorded as goodwill. The fair values of the assets acquired and liabilities assumed are determined based upon the valuation of the acquired business and involve management making significant estimates and assumptions. 
+
+&#160; 
+
+Cash and Cash Equivalents 
+
+&#160; 
+
+Cash and cash equivalents consist of highly liquid, unrestricted savings, checking, money market funds with original maturities of less than three months and other bank accounts. 
+
+&#160; 
+
+Restricted Cash 
+
+&#160; 
+
+Restricted cash refers to cash that is held by the company but cannot be used for continuing operations. Restricted cash as of December 31, 2023, primarily relates to collateral for a letter of credit in connection with a cyber-security insurance policy entered into in 2023. 
+
+Cash Reserved for Users 
+
+&#160; 
+
+The Company maintains separate bank accounts to segregate users&#8217; funds from operational funds. In certain regulated jurisdictions, user funds are held by DK Player Reserve LLC, a Delaware limited liability company and wholly owned subsidiary of DraftKings Inc., which was organized for the purpose of protecting users&#8217; funds in the event of creditor claims and complying with certain regulatory requirements of gaming authorities in certain jurisdictions. 
+
+&#160; 
+
+Receivables Reserved for Users 
+
+&#160; 
+
+Receivables for user deposits not yet received are stated at the amount the Company expects to collect from a payment processor, which includes an allowance for credit losses if appropriate. These receivables arise, primarily, due to process timing between when a user deposits and when the Company receives that deposit from the payment processor. The allowance for credit losses is determined based on the Company&#8217;s assessment of the probability of the non-payment of the receivable. This provision is netted against the receivable balance with the loss being recognized within general and administrative expenses in the consolidated statements of operations. As of and for the years ending December 31, 2023 and December 31, 2022, the provision did not have a material impact on the Company&#8217;s consolidated financial statements. 
+
+Accounts Receivables 
+
+&#160; 
+
+Accounts receivables are recorded at amortized cost, less any allowance for credit losses. The allowance for credit losses is determined based on the Company&#8217;s assessment of the probability of non-payment of the receivable after all means of collection have been exhausted and the potential for recovery is considered remote. This provision is netted against the receivable balance with the loss being recognized within general and administrative expenses in the consolidated statements of operations. As of and for the years ending December 31, 2023 and December 31, 2022, the provision did not have a material impact on the Company&#8217;s consolidated financial statements. 
+
+Digital Assets and Liabilities 
+
+F-10 
+
+On March 31, 2022, the SEC issued Staff Accounting Bulletin No. 121 (&#8220;SAB 121&#8221;). SAB 121 sets out interpretive guidance from the staff of the SEC regarding the accounting for obligations to safeguard digital assets that an entity holds for its users, which was effective from the first interim period commencing after June 15, 2022, with retroactive application as of the beginning of the fiscal year to which the interim or annual period relates. In accordance with SAB 121, the Company recognized a liability for the obligation to safeguard its users&#8217; assets and recognized an associated asset for non-fungible tokens (&#8220;NFTs&#8221;) held for its users. Both the liability and the associated asset are measured at the fair value of the NFTs being safeguarded. Refer to Note 8 hereof for disclosures required in accordance with ASC 820, Fair Value Measurement . &#160; 
+
+Property and Equipment, Net 
+
+&#160; 
+
+Property and equipment are carried at cost, net of accumulated depreciation. Depreciation is computed utilizing the straight-line method over the estimated useful life of the asset. Leasehold improvements depreciation is computed over the shorter of the lease term or estimated useful life of the asset. Additions and improvements are capitalized, while repairs and maintenance are expensed as incurred. Useful lives of each asset class are generally as follows: 
+
+&#160; 
+
+##TABLE_START Computer equipment and software 3 years Furniture and fixtures 7 years Leasehold improvements 
+
+Lesser of the lease terms or the estimated useful lives of the improvements, generally 1 &#8211; 10 years 
+
+##TABLE_END
+
+&#160; 
+
+Intangible Assets, Net 
+
+&#160; 
+
+The Company&#8217;s intangible assets consist of developed technology, customer relationships, internally-developed software, gaming licenses, trademarks and tradenames and digital assets. The related amortization expense is classified as cost of revenue in the consolidated statements of operations. Estimates and assumptions that we must make in estimating the fair value of future acquired technology, user lists and other identifiable intangible assets include future cash flows that we expect to generate from the acquired assets. 
+
+&#160; 
+
+Developed Technology 
+
+&#160; 
+
+Developed technology primarily relates to the design and development of sports betting and casino gaming software for online and retail sportsbook and casino gaming products acquired from SBTech and other acquisitions and recorded at fair value at the date of acquisition. 
+
+&#160; 
+
+Internally Developed Software 
+
+&#160; 
+
+Software that is developed for internal use is accounted for pursuant to ASC 350-40, Intangibles, Goodwill and Other&#8212;Internal-Use Software . Qualifying costs incurred to develop internal-use software are capitalized when (i) the preliminary project stage is completed, (ii) management has authorized further funding for the completion of the project and (iii) it is probable that the project will be completed and perform as intended. These capitalized costs include compensation for employees who develop internal-use software and external costs related to development of internal use software. Capitalization of these costs ceases once the project is substantially complete and the software is ready for its intended purpose. Internally developed software is amortized using the straight-line method over an estimated useful life. All other expenditures, including those incurred in order to maintain an intangible asset&#8217;s current level of performance, are expensed as incurred. When intangible assets are retired or disposed of, the cost and accumulated amortization thereon are removed, and any resulting gain or losses are included in the consolidated statements of operations. 
+
+&#160; 
+
+Gaming Licenses 
+
+&#160; 
+
+The Company incurs fees in connection with applying for and maintaining good standing in jurisdictions via business licenses. Fees incurred in connection with the application and subsequent renewals are capitalized and amortized using the straight-line method over an estimated useful life. In certain arrangements, the Company enters into agreements to operate on a business partner&#8217;s license in exchange for upfront fees. These fees are capitalized and amortized over the shorter of their expected benefit under the partnership agreement or estimated useful life. 
+
+&#160; 
+
+Customer Relationships 
+
+&#160; 
+
+F-11 
+
+Customer (or &#8220;user&#8221;) relationships are finite-lived intangible assets, which are amortized over their estimated economic lives. Customer relationships are generally recognized as the result of business combinations. 
+
+Trademarks and Tradenames 
+
+&#160; 
+
+The Company incurs fees in connection with applying for and maintaining trademarks and tradenames as well as trademarks and tradenames resulting from acquisitions. Fees incurred in connection with the application and subsequent renewals are capitalized and amortized using the straight-line method over an estimated useful life. 
+
+Digital Assets 
+
+The Company has purchased certain digital assets, including crypto currencies, with cash that is not required to currently support its operations. The Company accounts for digital assets in accordance with ASC 350, Intangibles&#8212;Goodwill and Other (Topic 350). Accordingly, if the fair market value at any point during the reporting period is lower than the carrying value an impairment loss equal to the difference will be recognized in the consolidated statement of operations. We have not recorded any significant impairments. 
+
+&#160; 
+
+Impairment of Long-Lived Assets 
+
+&#160; 
+
+Long-lived assets, except for goodwill and indefinite-lived intangible assets, consist of property and equipment and finite-lived acquired intangible assets, such as internal-use software, developed software, gaming licenses, trademarks, tradenames, and customer relationships. Long-lived assets, except for goodwill and indefinite-lived assets, are tested for recoverability whenever events or changes in business circumstances indicate that the carrying amount of the asset may not be fully recoverable. Impairment expense is recognized to the extent an asset&#8217;s expected undiscounted future cash flows are less than the asset&#8217;s carrying amount. The Company determined that there was no impairment of long-lived assets during 2023, 2022, or 2021. 
+
+&#160; 
+
+Goodwill 
+
+&#160; 
+
+The Company regularly reviews its reporting units and the approach used by the CODM and segment management to evaluate performance and allocate resources. Prior to 2023, the Company&#8217;s business was classified into three reporting units: B2C, Media and B2B. However, as a result of the Company&#8217;s integration of its B2B business and change in reporting structure to the CODM, the Company determined that it only had one reporting unit as of October 1, 2023, the Company&#8217;s annual goodwill impairment assessment date. In testing goodwill for impairment, the Company has the option to begin with a qualitative assessment, commonly referred to as &#8220;Step 0,&#8221; to determine whether it is more likely than not that the fair value of a reporting unit containing goodwill is less than its carrying value. This qualitative assessment may include, but is not limited to, reviewing factors such as macroeconomic conditions, industry and market considerations, cost factors, entity-specific financial performance and other events, such as changes in the Company&#8217;s management, strategy and primary user base. If the Company determines that it is more likely than not that the fair value of a reporting unit is less than its carrying value, the Company performs a quantitative goodwill impairment analysis by comparing the carrying amount to the fair value of the reporting unit. If the carrying amount exceeds the fair value, goodwill will be written down to the fair value and recorded as impairment expense in the consolidated statements of operations. The Company performs its impairment testing annually and when circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. The Company performed its annual impairment assessment of goodwill as of October 1, 2023 and, with consideration regarding the change in reporting units, concluded that goodwill was not impaired. 
+
+Equity Method Investments 
+
+&#160; 
+
+The Company has a 49.9 % membership interest in DKFS, LLC, also known as DRIVE by DraftKings as of December 31, 2023. In addition, the Company has committed to invest up to $ 17.5 million into DBDK Venture Fund I, LP, a Delaware limited partnership and a subsidiary of DKFS LLC. As of December 31, 2023, the Company had invested a total of $ 7.6 million of the total commitment, which represents ownership of approximately 28.6 % in t he fund. 
+
+The Company uses the equity method to account for investments in which the Company has the ability to exercise significant influence over the operating and financial policies of the investee, but it does not exercise control and is not the primary beneficiary. The Company&#8217;s judgment regarding its level of influence over the equity method investee includes considering key factors, such as ownership interest, representation on the board of directors, and participation in policy-making decisions. The Company&#8217;s carrying value in the equity method investee is reflected in the caption &#8220;Equity method investments&#8221; 
+
+F-12 
+
+on the consolidated balance sheets. Changes in value of DKFS, LLC and DBDK Venture Fund I, LP are recorded in &#8220;Loss (income) from equity method investment&#8221; on the consolidated statements of operations. 
+
+&#160; 
+
+Under the equity method, the Company&#8217;s investment is initially measured at cost and subsequently increased or decreased to recognize the Company&#8217;s share of income and losses of the investee, capital contributions and distributions and impairment losses. The Company performs a qualitative assessment annually and recognizes an impairment if there are sufficient indicators that the fair value of the investment is less than carrying value. There was no such impairment recorded during 2023, 2022, or 2021. 
+
+&#160; 
+
+Leases 
+
+The Company determines if an arrangement is a lease at inception and categorizes it as either operating or finance based on the criteria of ASC 842. An arrangement contains a lease when the arrangement conveys the right to control the use of an identified asset over the lease term. Operating leases are recorded in the Consolidated Balance Sheets. The Company currently does not have any finance leases. The Company elects certain practical expedients that include not separating lease and non-lease components and it does not apply the right-of-use (&#8220;ROU&#8221;) assets and lease liability recognition requirements to short-term leases. 
+
+Lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at the commencement date. These leases typically do not provide an implicit rate; therefore, the Company uses its incremental borrowing rate based on the information available at the commencement date in determining the present value of future lease payments. The incremental borrowing rate is the rate incurred to borrow on a collateralized basis over a similar term in an amount equal to the lease payments in a similar economic environment. ROUs are recognized at the lease commencement date at the value of the lease liability, adjusted for any lease payments made prior to commencement and exclude lease incentives and initial direct costs incurred. The lease terms include all non-cancelable periods and may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense is recognized on a straight-line basis over the expected lease term. 
+
+Liabilities to Users 
+
+The Company records liabilities for user account balances and pending wagers. User account balances consist of user deposits, most promotional awards and user winnings less user withdrawals, tax withholdings and user losses. Liabilities for user account balances may be covered through a combination of cash reserved for users, receivables reserved for users and surety bonds for the benefit of users. 
+
+&#160; 
+
+Loss Contingencies 
+
+&#160; 
+
+The Company&#8217;s loss contingencies, which are included within accounts payable and accrued expenses or other long-term liabilities in our consolidated balance sheets, are uncertain by nature and their estimation requires significant management judgment as to the probability of loss and estimation of the amount of such loss. These contingencies include, but may not be limited to, litigation, indirect taxes, regulatory investigations and proceedings and management&#8217;s evaluation of complex laws and regulations, and the extent to which they may apply to our business and industry. 
+
+&#160; 
+
+The Company regularly reviews its contingencies to determine whether the likelihood of loss is probable or reasonably possible and to assess whether a reasonable estimate of the loss can be made. Determination of whether a loss estimate can be made is a complex undertaking that considers the judgement of management, third-party research, the prospect of negotiation and interpretations by regulators and courts, among other information. When a loss is determined to be probable, and the amount of the loss can be reasonably estimated, an estimated contingent liability is recorded and the related legal costs are expensed as incurred. 
+
+Revenue Recognition 
+
+&#160; 
+
+The Company records revenue in accordance with ASC Topic 606, Revenue from Contracts with Customers (&#8220;ASC 606&#8221;). ASC 606 requires companies to recognize revenue in a way that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. In addition, the standard requires more detailed disclosures to enable readers of the financial statements to understand the nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers. See Note 9 ( Revenue Recognition ) for further information. 
+
+&#160; 
+
+F-13 
+
+The Company determines revenue recognition through the following steps: 
+
+&#160; 
+
+&#8226; Identify the contract, or contracts, with the customer; 
+
+&#8226; Identify the performance obligations in the contract; 
+
+&#8226; Determine the transaction price; 
+
+&#8226; Allocate the transaction price to performance obligations in the contract; and 
+
+&#8226; Recognize revenue when, or as, the Company satisfies performance obligations by transferring the promised good or services. 
+
+&#160; 
+
+The Company is currently engaged in the business of digital sports entertainment and gaming and provides its users with online gaming opportunities. The Company also provides online sportsbook and casino operators with technical infrastructure as well as related services with respect to its direct customers and distributors. The following is a description of the Company&#8217;s revenue streams: 
+
+&#160; 
+
+Online gaming 
+
+&#160; 
+
+Sportsbook or sports betting involves a user wagering money on an outcome or series of outcomes occurring. When a user&#8217;s wager wins, the Company pays the user a pre-determined amount known as fixed odds. Sportsbook revenue is generated by setting odds such that there is a built-in theoretical margin in each sports wagering opportunity offered to users. Sportsbook revenue is generated from users&#8217; wagers net of payouts made on users&#8217; winning wagers and incentives awarded to users. 
+
+&#160; 
+
+iGaming, or online casino, typically includes digital versions of wagering games available in land-based casinos, such as blackjack, roulette and slot machines. For these product offerings, the Company functions similarly to land-based casinos, generating revenue through hold, as users play against the house. iGaming revenue is generated from user wagers net of payouts made on users&#8217; winning wagers and incentives awarded to users. 
+
+&#160; 
+
+DFS is a peer-to-peer product offering in which contestants compete against one another for prizes. Contestants pay an entry fee to join a DFS contest and compete for prizes, which are distributed to the highest performing contestants in each contest as defined by each contest&#8217;s prize table. DFS revenue is generated from contest entry fees from contestants, net of prizes and customer incentives awarded to contestants. 
+
+Sportsbook, iGaming, and DFS, each as described above, create a single performance obligation for the Company to operate contests or games and award prizes or payouts to users based on results. Revenue is recognized at the conclusion of each wager, wagering game hand or contest. Incentives can be used across online gaming product offerings. Additionally, certain incentives given to customers create material rights and represent separate performance obligations. User incentives in certain cases create liabilities when awarded to players and in those cases are generally recognized as revenue upon redemption. 
+
+&#160; 
+
+Gaming software 
+
+&#160; 
+
+The Company contracts with business customers to provide sports and casino betting software solutions. Gaming software revenue is recognized when control of the solutions is transferred to the customer in an amount that reflects the consideration to which the Company expects to be entitled to in exchange for providing control of the sports betting and casino software. 
+
+&#160; 
+
+The Company&#8217;s direct customer contract revenue is generally calculated as a percentage of the wagering revenue generated by the business customer using our software and is recognized in the periods in which those wagering and related activities conclude. Our direct customer arrangements do not provide the customers with the right to take possession of our software, but only the right to purchase access to the Company&#8217;s sports and casino wagering software for a defined contractual period. 
+
+Media and advertising revenue 
+
+&#160; 
+
+The Company enters contracts with businesses where it receives consideration in exchange for advertisement activities over the related campaign periods. These services are grouped into advertising promises and sponsored game promises. The advertising packages range from standard ad placements and background ad placements to more high-touch integrations, such as sponsored DFS contest series or custom site takeovers. Media and advertising revenue is generated from business users and recognized ratably over the respective ad periods. 
+
+F-14 
+
+Non-fungible token (&#8220;NFT&#8221;) content 
+
+The Company launched DraftKings Marketplace during the third quarter of 2021. Marketplace is a digital collectibles (non-fungible token or &#8220;NFT&#8221;) ecosystem designed for mainstream accessibility that offers curated initial NFT drops (&#8220;Primary Sales&#8221;). In addition to Primary Sales, owners of NFTs on Marketplace can list their NFTs for sale to other Marketplace customers (&#8220;Secondary Sales&#8221;). The revenue that the Company earns from Marketplace is primarily based on a specific percentage of the gross value of each Primary Sale or Secondary Sale. The revenue is recognized for each sale when the NFT transfers to the end user. 
+
+&#160; 
+
+Transaction Price Considerations 
+
+&#160; 
+
+Variability in the transaction price arises primarily due to market-based pricing, cash discounts, revenue sharing and usage-based fees. DraftKings offers loyalty programs, free plays, deposit bonuses, discounts, rebates and other rewards and incentives to its customers. Revenue for Sportsbook, iGaming and DFS is collected prior to the contest or event and is fixed once the outcome is known. Prizes paid and payouts made to users are recognized when awarded to the player. 
+
+&#160; 
+
+Contracts with customers may include multiple performance obligations. For such arrangements, the transaction price is allocated to performance obligations on a relative standalone selling price basis. Standalone selling prices are estimated based on observable data of the Company&#8217;s sales of such products and services to similar customers and in similar circumstances on a standalone basis. For Online Gaming, which includes Sportsbook, iGaming and DFS, the Company allocates a portion of the transaction price to certain customer incentives that create material future customer rights. In addition, in the event of a multi-stage contest, the Company will allocate transaction price ratably from contest start to the contest&#8217;s final stage. 
+
+&#160; 
+
+Certain costs to obtain or fulfill contracts 
+
+&#160; 
+
+Under ASC 606, certain costs to obtain or fulfill a contract with a customer must be capitalized, to the extent recoverable from the associated contract margin, and subsequently amortized as the products or services are delivered to the customer. These costs are capitalized as contract acquisition costs and are amortized over the period of benefit to the customer. For the Company, the period of benefit is typically less than or equal to one year . As such, the Company applied the practical expedient and contract acquisition costs are expensed immediately. Customer contract costs which do not qualify for capitalization as contract fulfillment costs are expensed as incurred. 
+
+&#160; 
+
+Contract balances 
+
+&#160; 
+
+Contract assets and liabilities represent the differences in the timing of revenue recognition from the receipt of cash from the Company&#8217;s customers and billings to those customers. Contract assets reflect revenue recognized and performance obligations satisfied in advance of customer billing. 
+
+&#160; 
+
+Deferred revenue primarily represents contract liabilities related to the Company&#8217;s obligation to transfer future value in relation to in-period transactions in which the Company has received consideration. Such obligations are recognized as liabilities when awarded to users and are recognized as revenue when those liabilities are later resolved. The Company maintains various programs to incentivize user behavior, which allow users to earn awards. Incentive awards generally represent a material right to the user, and awards may be redeemed for future services. Incentive awards earned by users, but not yet redeemed, are generally recognized as a reduction to revenue and included within liabilities to users on our consolidated balance sheets. When a user redeems most types of awards, the Company recognizes revenue on its consolidated statements of operations. Certain player awards are not subject to expiration or have not been expired historically; on such awards the Company recognizes breakage (for amounts not expected to be redeemed) to the extent there is no requirement for remitting such balances to regulatory agencies. In addition to these incentive programs, the Company&#8217;s deferred revenue balance also consists of wagered amounts that relate to unsettled or pending outcomes. 
+
+Cost of Revenue 
+
+&#160; 
+
+Cost of revenue consists primarily of variable costs. These include mainly (i) product taxes, (ii) payment processing fees and chargebacks, (iii) platform costs directly associated with revenue-generating activities, including those costs that were originally capitalized for internally developed software, (iv) revenue share / market access arrangements, and (v) feed / provider services. The Company incurs payment processing fees on user deposits, withdrawals and deposit reversals from payment processors. Cost of revenue also includes expenses related to the distribution of our services, amortization of intangible assets and compensation of revenue associated personnel. 
+
+F-15 
+
+&#160; 
+
+Sales and Marketing 
+
+&#160; 
+
+Sales and marketing expenses consist primarily of expenses associated with advertising, conferences, costs related to free to play contests, rent and facilities maintenance, and the compensation of sales and marketing personnel, including stock-based compensation expenses. Advertising costs are expensed as incurred and are included in sales and marketing expense in our consolidated statements of operations. Advertising costs include those costs associated with communicating with potential customers and generally use some form of media, such as internet, radio, print, television, or billboards. Advertising costs also include costs associated with strategic league and team partnerships. During the years ended December 31, 2023, 2022 and 2021, advertising costs calculated in accordance with U.S. GAAP were $ 984.4 million , $ 964.9 million and $ 831.1 million, respectively. 
+
+&#160; 
+
+Product and Technology 
+
+&#160; 
+
+Product and technology expenses consist primarily of research and development costs that are not capitalized and other costs not associated directly with revenue generating activities. Research and development costs primarily represent employee expenses (including stock-based compensation) for engineering product, design, analytical research and project management incurred for non-revenue generating activities. Other costs include related overhead for rent, facilities maintenance, third party software licenses and consulting services. 
+
+&#160; 
+
+General and Administrative 
+
+&#160; 
+
+General and administrative expenses consist of costs not related to sales and marketing, product and technology or revenue. General and administrative costs include professional services (including legal, regulatory, audit, accounting, lobbying and services related to acquisitions), rent and facilities maintenance, contingencies, insurance, allowance for credit losses, depreciation of leasehold improvements and furniture and fixtures and costs related to the compensation of executive and non-executive personnel, including stock-based compensation. 
+
+Benefit Plans 
+
+The Company maintains a defined contribution plan, which covers a majority of employees. The plan allows for employee salary deferrals, which are matched at our discretion. The Company contributions to these plans were $ 11.6 million, $ 9.3 million and $ 6.7 million in 2023, 2022 and 2021, respectively. 
+
+&#160; 
+
+Stock-based Compensation 
+
+&#160; 
+
+The Company measures compensation cost for stock options and other stock awards in accordance with ASC 718, Compensation&#8212;Stock Compensation . Stock-based compensation is measured at fair value on grant date and recognized as compensation cost over the requisite service period. Generally, the Company issues stock options and other stock awards to employees with service-based or performance-based vesting conditions. For awards with only service-based vesting conditions, the Company records compensation cost for these awards using the straight-line method less an assumed forfeiture rate. For awards with performance-based vesting conditions, the Company recognizes compensation cost on a tranche-by-tranche basis (the accelerated attribution method), based on the probability of achieving the performance criteria. 
+
+&#160; 
+
+Under the provisions of ASC 505-50, Equity-Based Payments to Non-Employees , the Company measures stock-based awards granted to non-employees at the earlier of: (i) the performance commitment date, or (ii) the date the services required under the arrangement have been completed. Compensation cost is recognized over the period during which services are rendered by non-employees until service is completed. 
+
+&#160; 
+
+F-16 
+
+Income Taxes 
+
+&#160; 
+
+The Company accounts for income taxes using the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in the consolidated financial statements or in the Company&#8217;s tax returns. Deferred tax assets and liabilities are determined on the basis of the differences between U.S. GAAP treatment and tax treatment of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. Deferred tax liabilities are included in other long-term liabilities in the consolidated balance sheets. Changes in deferred tax assets and liabilities are included in the income tax (benefit) provision in the consolidated statement of operations. The Company assesses the likelihood that its deferred tax assets will be recovered from future taxable income and, to the extent it believes, based upon the weight of available evidence, that it is more likely than not that all or a portion of the deferred tax assets will not be realized, a valuation allowance is established through a charge to income tax expense. Potential for recovery of deferred tax assets is evaluated by considering taxable income of the appropriate source and character in carryback years, existing taxable temporary differences, prudent and feasible tax planning strategies and estimated future taxable profits. 
+
+The Company accounts for uncertainty in income taxes recognized in its consolidated financial statements by applying a two-step process to determine the amount of tax benefit to be recognized. First, the tax position must be evaluated to determine the likelihood that it will be sustained upon external examination by the taxing authorities. If the tax position is deemed more-likely-than-not to be sustained, the tax position is then measured to determine the amount of benefit to recognize in our consolidated financial statements. Liabilities for uncertain tax positions are included in long-term income tax liabilities in the consolidated balance sheets. The amount of the benefit that may be recognized is the largest amount that has a greater than 50% likelihood of being realized upon ultimate settlement. The income tax (benefit) provision includes the effects of any resulting tax reserves, or unrecognized tax benefits, that are considered appropriate, as well as the related net interest and penalties. 
+
+Loss per share 
+
+&#160; 
+
+Basic loss per share is calculated using the two-class method. Under the two-class method, basic loss is computed by dividing net loss available to common stockholders by the weighted-average number of common shares outstanding during the period excluding the effects of any potentially dilutive instruments. The weighted-average number of common shares outstanding during the period includes Class A common stock but is exclusive of Class B common stock as these shares have no economic or participating rights. Diluted loss per share is computed similar to basic loss per share, except that the denominator is increased to include the number of additional common shares that would have been outstanding if potential common shares had been issued if such additional common shares were dilutive. Since the Company had net losses for all the periods presented, basic and diluted loss per share are the same, and additional potential common shares have been excluded, as their effect would be anti-dilutive. 
+
+Recently Issued Accounting Pronouncements Not Yet Adopted 
+
+In June 2022, the FASB issued ASU 2022-03, Fair Value Measurement (Topic 820): Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions (&#8220;ASU 2022-03&#8221;), which clarifies the guidance in Accounting Standards Codification Topic 820, Fair Value Measurement (&#8220;Topic 820&#8221;), when measuring the fair value of an equity security subject to contractual restrictions that prohibit the sale of an equity security and introduces new disclosure requirements for equity securities subject to contractual sale restrictions that are measured at fair value in accordance with Topic 820. ASU 2022-03 is effective for fiscal years beginning after December 15, 2023, including interim periods within those fiscal years, and early adoption is permitted. While the Company is continuing to assess the potential impacts of ASU 2022-03, it does not expect ASU 2022-03 to have a material effect on the Company&#8217;s consolidated financial condition, results of operations or cash flows. 
+
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures , to improve reportable segment disclosures. The guidance expands the disclosures required for reportable segments in our annual and interim consolidated financial statements, primarily through enhanced disclosures about significant segment expenses. The standard will be effective for us beginning with our annual reporting for fiscal year 2024 and interim periods thereafter, with early adoption permitted. We are currently evaluating the impact of this standard on our segment disclosures. 
+
+In December 2023, the FASB issued ASU 2023-08, Accounting for and Disclosure of Crypto Assets (Topic 820) , a new standard designed to enhance decision-useful information about such assets and to better reflect the underlying economics of cryptocurrency transactions. The standard will be effective for us beginning with our annual reporting for fiscal year 2025 and interim periods thereafter, with early adoption permitted. We are currently evaluating the impact of this standard on our digital assets&#8217; accounting and disclosures. 
+
+F-17 
+
+In December 2023, the FASB issued ASU 2023-09, Income Taxes&#8212;Income Taxes (Topic 740): Improvements to Income Tax Disclosures (&#8220;ASU 2023-09&#8221;). ASU 2023-09 modifies the rules on income tax disclosures to enhance the transparency and decision-usefulness of income tax disclosures, particularly in the rate reconciliation table and disclosures about income taxes paid. The amendments are intended to address investors&#8217; requests for income tax disclosures that provide more information to help them better understand an entity&#8217;s exposure to potential changes in tax laws and the ensuing risks and opportunities and to assess income tax information that affects cash flow forecasts and capital allocation decisions. The guidance also eliminates certain existing disclosure requirements related to uncertain tax positions and unrecognized deferred tax liabilities. ASU 2023-09 is effective for public business entities for annual periods beginning after December 15, 2024. All entities are required to apply the guidance prospectively but have the option to apply it retrospectively. Early adoption is permitted. The Company is continuing to assess the timing of adoption and the potential impacts of ASC 2023-09. 
+
+3. Business Combinations 
+
+&#160; 
+
+Acquisition of Golden Nugget Online Gaming, Inc. 
+
+On May 5, 2022, DraftKings consummated the GNOG Transaction, and, under the terms of the GNOG Merger Agreement and subject to certain exclusions contained therein, GNOG stockholders received a fixed ratio of 0.365 shares of DraftKings Inc.&#8217;s Class A common stock for each share of GNOG that they held on the GNOG Closing Date. DraftKings Inc. issued approximately 29.3 million shares of its Class A common stock in connection with the consummation of the GNOG Transaction. 
+
+Operating results for GNOG on and after the GNOG Closing Date are included in the Company&#8217;s consolidated statements of operations for the years ended December 31, 2023 and 2022. Because the Company is integrating GNOG&#8217;s operations into its consolidated operating activities, the amount of revenue and earnings attributable to the GNOG business for 2022, which is included within revenue and net loss attributable to common stockholders in the Company&#8217;s consolidated statements of operations , was impracticable to determine. 
+
+Purchase Price Accounting for the GNOG Transaction 
+
+On the GNOG Closing Date, the Company acquired 100 % of the equity interests of GNOG pursuant to the GNOG Merger Agreement. The following is a summary of the consideration issued on the GNOG Closing Date: 
+
+##TABLE_START 
+
+Share consideration (1) 
+
+$ 460,128 &#160; 
+
+Other consideration (2) 
+
+143,337 &#160; Total consideration $ 603,465 &#160; ##TABLE_END
+
+(1) Includes the issuance of approximately 29.3 million shares of DraftKings Inc.&#8217;s Class A common stock issued at a price of $ 15.73 . 
+
+(2) Includes (i) $ 170.9 million of payments made by the Company on behalf of GNOG, including repayment of the outstanding portion of GNOG&#8217;s term loan (including the associated prepayment premium) and payment of certain of GNOG&#8217;s transaction expenses incurred in connection with the GNOG Transaction and (ii) warrants that were exercisable for shares of GNOG Class A common stock prior to the GNOG Closing Date, which were assumed by DraftKings in connection with the GNOG Transaction and became eligible to be converted into approximately 2.1 million shares of DraftKings Inc.&#8217;s Class A common stock in the aggregate. These payments were partially offset by commercial credits received by the Company from Fertitta Entertainment, Inc. (&#8220;FEI&#8221;), which can be applied by the Company from time to time to offset future amounts otherwise owed by it to FEI or its affiliates under commercial arrangements among such parties, subject to certain limited exceptions. 
+
+F-18 
+
+The following table summarizes the consideration issued or paid in connection with the GNOG Transaction and the fair value of the assets acquired and liabilities assumed in connection with the consummation of the GNOG Transaction on the GNOG Closing Date: 
+
+##TABLE_START Cash and cash equivalents $ 66,709 &#160; Cash reserved for users 7,633 &#160; Receivables reserved for users 2,814 &#160; Accounts receivables 7,783 &#160; Prepaid expenses and other current assets 64 &#160; Property and equipment, net 1,433 &#160; Intangible assets, net 315,000 &#160; Operating lease right-of-use assets 1,185 &#160; Deposits and other non-current assets 47,395 &#160; Total identifiable assets acquired 450,016 &#160; Liabilities assumed: Accounts payable and accrued expenses 32,989 &#160; Liabilities to users 4,314 &#160; Operating lease liabilities 1,185 &#160; Other long-term liabilities 78,781 &#160; Total liabilities assumed 117,269 &#160; Net assets acquired (a) 332,747 &#160; Purchase consideration (b) 603,465 &#160; Goodwill (b) &#8211; (a) $ 270,718 &#160; ##TABLE_END
+
+Goodwill represents the excess of the gross consideration transferred over the difference between the fair value of the underlying net assets acquired and the underlying liabilities assumed. Qualitative factors that contribute to the recognition of goodwill include certain intangible assets that are not recognized as separate identifiable intangible assets apart from goodwill. Intangible assets not recognized apart from goodwill consist primarily of benefits from securing buyer-specific synergies that increase revenue and profits and are not otherwise available to a market participant, as well as acquiring a talented workforce and cost savings opportunities. Goodwill recognized is partially deductible for tax purposes, and the amount of deductible goodwill was determined to be $ 160.7 million. 
+
+Intangible Assets 
+
+##TABLE_START Fair Value Weighted- Average Useful Life Gaming licenses $ 145,000 &#160; 12.2 years Customer relationships 170,000 &#160; 5.9 years Total $ 315,000 &#160; ##TABLE_END
+
+Loan Receivable 
+
+The Company acquired a long-term receivable in the amount of $ 30.1 million in connection with the GNOG Transaction, which originally resulted from a $ 30.0 million mezzanine loan (the &#8220;Danville GN Casino Loan&#8221;) by GNOG to certain parties before the GNOG Closing Date to develop and construct a &#8220;Golden Nugget&#8221;-branded casino in Danville, Illinois, pending regulatory approvals, that would enable GNOG to obtain market access to the State of Illinois. There has been no significant deterioration of credit quality since the origination date of the Danville GN Casino Loan. The receivable related to the Danville GN Casino Loan is classified within deposits and other non-current assets on the Company&#8217;s consolidated balance sheet. 
+
+F-19 
+
+Transaction Costs 
+
+For the year ended December 31, 2022 and 2021, the Company incurred $ 14.9 million and $ 9.2 million, respectively, in advisory, legal, accounting and management fees in connection with the GNOG Transaction, which are included in general and administrative expenses on the Company&#8217;s consolidated statements of operations. 
+
+Unaudited Pro-Forma Information 
+
+The financial information in the table below summarizes the combined results of operations of Old DraftKings and GNOG, on an actual and a pro forma basis, as applicable, as though the companies had been combined as of January 1, 2021. The pro forma financial information is presented for informational purposes only and is not indicative of the results of operations that would have been achieved if the GNOG Transaction had been consummated as of the beginning of the periods presented or of results that may occur in the future. 
+
+##TABLE_START &#160; Year Ended December 31, 2022 Pro Forma 2021 Pro Forma Revenue $ 2,284,596 &#160; $ 1,417,011 &#160; Net loss $ ( 1,375,161 ) $ ( 1,660,125 ) ##TABLE_END
+
+&#160; 
+
+The foregoing pro forma financial information is based on estimates and assumptions, which the Company believes are reasonable. The pro forma financial information includes adjustments primarily related to purchase accounting adjustments. Transaction costs and other non-recurring charges incurred are included in the earliest period presented. 
+
+Vegas Sports Information Network, Inc. Acquisition 
+
+On March 26, 2021, the Company acquired 100 % of the equity of Vegas Sports Information Network, Inc. (&#8220;VSiN&#8221; and such acquisition, the &#8220;VSiN Acquisition&#8221;) for $ 40.6 million of cash and approximately $ 29.4 million of the Company&#8217;s Class A common stock. 
+
+The acquired assets and assumed liabilities of VSiN were recorded at their estimated fair values, including $ 21.8 million of intangible assets. Goodwill of $ 47.2 million represents the excess of the gross considerations transferred over the fair value of the underlying net assets acquired and liabilities assumed. Goodwill associated with the VSiN Acquisition is assigned as of the acquisition date to the Company&#8217;s Media reporting unit. The purchase price allocation for the VSiN Acquisition was finalized as of December 31, 2021. Goodwill recognized is no t deductible for tax purposes. As VSiN&#8217;s financial results are not material to the Company&#8217;s consolidated financial statements, the Company has elected to not include pro forma results. 
+
+Blue Ribbon Software Ltd. Acquisition 
+
+On April 1, 2021, the Company acquired 100 % of the equity of Blue Ribbon Software Ltd. (&#8220;Blue Ribbon&#8221;) for $ 17.8 million of cash and approximately $ 3.8 million of the Company&#8217;s Class A common stock (the &#8220;Blue Ribbon Acquisition&#8221;). The acquired assets and assumed liabilities of Blue Ribbon were recorded at their estimated fair values. The purchase price allocation for the Blue Ribbon Acquisition was finalized as of December 31, 2021. 
+
+4. Property and Equipment 
+
+&#160; 
+
+Property and equipment, net consists of the following: 
+
+&#160; 
+
+F-20 
+
+##TABLE_START &#160; December 31, 2023 December 31, 2022 Computer equipment and software $ 70,243 &#160; $ 64,133 &#160; Furniture and fixtures 8,594 &#160; 8,526 &#160; Leasehold improvements 57,309 &#160; 43,046 &#160; Property and Equipment 136,146 &#160; 115,705 &#160; Accumulated depreciation ( 75,451 ) ( 55,603 ) Property and Equipment, net $ 60,695 &#160; $ 60,102 &#160; ##TABLE_END
+
+&#160; 
+
+During the years ended December 31, 2023, 2022, and 2021 the Company recorded depreciation expense on property and equipment of $ 20.4 million , $ 18.7 million, and $ 13.8 million, respectively. The value of property and equipment, net in foreign countries is $ 4.0 million. 
+
+&#160; 
+
+5. Intangible Assets and Goodwill 
+
+&#160; 
+
+Intangible Assets 
+
+&#160; 
+
+As of December 31, 2023, intangible assets, net consists of the following: 
+
+##TABLE_START Weighted- Average Remaining Amortization Period Gross Carrying Amount Accumulated Amortization Net Amortized intangible assets: Developed technology 4.4 years $ 422,900 &#160; $ ( 193,247 ) $ 229,653 &#160; Internally developed software 2.3 years 236,644 &#160; ( 108,169 ) 128,475 &#160; Gaming licenses 10.6 years 218,760 &#160; ( 47,941 ) 170,819 &#160; Customer relationships 4.1 years 269,728 &#160; ( 127,862 ) 141,866 &#160; Trademarks, tradenames and other 3.3 years 37,674 &#160; ( 20,751 ) 16,923 &#160; 1,185,706 &#160; ( 497,970 ) 687,736 &#160; Indefinite-lived intangible assets: Digital assets, net of impairment Indefinite-lived 2,884 &#160; N/A 2,884 &#160; Intangible assets, net $ 1,188,590 &#160; $ ( 497,970 ) $ 690,620 &#160; ##TABLE_END
+
+As of December 31, 2022, intangible assets, net consisted of the following: 
+
+&#160; 
+
+##TABLE_START Weighted- Average Remaining Amortization Period Gross Carrying Amount Accumulated Amortization Net Developed technology 5.4 years $ 422,900 &#160; $ ( 140,200 ) $ 282,700 &#160; Internally developed software 2.4 years 168,277 &#160; ( 70,575 ) 97,702 &#160; Gaming licenses 11.0 years 206,655 &#160; ( 29,487 ) 177,168 &#160; Customer relationships 4.6 years 269,728 &#160; ( 75,791 ) 193,937 &#160; Trademarks and tradenames 3.8 years 36,193 &#160; ( 13,463 ) 22,730 &#160; 1,103,753 &#160; ( 329,516 ) 774,237 &#160; Indefinite-lived intangible assets: Digital assets, net of impairment Indefinite-lived 2,697 &#160; &#8212; 2,697 &#160; Intangible assets, net $ 1,106,450 &#160; $ ( 329,516 ) $ 776,934 &#160; ##TABLE_END
+
+F-21 
+
+During the years ended December 31, 2023, 2022, and 2021 the Company recorded amortization expense on intangible assets of $ 180.9 million , $ 150.6 million , and $ 107.3 million , respectively. Future cash flows associated with the Company&#8217;s intangible assets are not expected to be materially affected by its ability to renew or extend its arrangements. 
+
+&#160; 
+
+The table below shows expected amortization expense for the next five years of intangible assets recorded as of December 31, 2023: 
+
+&#160; 
+
+##TABLE_START Year ending December 31, Estimated Amortization 2024 $ 186,620 &#160; 2025 144,810 &#160; 2026 107,560 &#160; 2027 84,078 &#160; 2028 47,058 &#160; ##TABLE_END
+
+&#160; 
+
+Goodwill 
+
+&#160; 
+
+There were no changes in the carrying amount of goodwill for the year ended December 31, 2023. As of December 31, 2023, the Company had no accumulated goodwill impairment losses. 
+
+##TABLE_START &#160; Total Balance as of December 31, 2021 $ 615,655 &#160; Goodwill resulting from acquisitions 270,718 &#160; Balance as of December 31, 2022 $ 886,373 &#160; Changes in Goodwill &#8212; &#160; Balance as of December 31, 2023 $ 886,373 &#160; ##TABLE_END
+
+No impairment of goodwill was recorded in the years ended December 31, 2023, 2022 and 2021. As of December 31, 2023, the Company had no accumulated goodwill impairment losses. 
+
+6. Accounts Payable and Accrued Expenses 
+
+&#160; 
+
+Accounts payable and accrued expenses consist of the following: 
+
+&#160; 
+
+##TABLE_START December 31, 2023 December 31, 2022 Accounts payable $ 34,127 &#160; $ 10,148 &#160; Accrued compensation and related expenses 94,830 &#160; 78,819 &#160; Accrued marketing 100,840 &#160; 146,569 &#160; Accrued partnership fees 136,338 &#160; 99,633 &#160; Accrued processor fees 21,357 &#160; 14,440 &#160; Accrued product taxes 116,501 &#160; 70,891 &#160; Accrued professional fees and litigation 53,870 &#160; 23,151 &#160; Accrued software and license fees 25,829 &#160; 12,558 &#160; Deferred revenue 43,634 &#160; 40,520 &#160; Accrued other expenses 12,273 &#160; 20,858 &#160; Total $ 639,599 &#160; $ 517,587 &#160; ##TABLE_END
+
+&#160; 
+
+7. Current and Long-term Liabilities 
+
+&#160; 
+
+F-22 
+
+Revolving Line of Credit 
+
+&#160; 
+
+On December 20, 2022, the Company entered into a loan and security agreement with Pacific Western Bank and Citizens Bank, as lenders (as amended, the &#8220;Credit Agreement&#8221;), which provides the Company with a revolving line of credit of up to $ 125.0 million (the &#8220;Revolving Line of Credit&#8221;). The Credit Agreement has a maturity date of December 20, 2024 and replaced the Company&#8217;s amended and restated loan and security agreement entered into with Pacific Western Bank in October 2016 (the &#8220;Prior Credit Agreement&#8221;), which provided a revolving line of credit of up to $ 60.0 million and was terminated in connection with the Company&#8217;s entry into the Credit Agreement. 
+
+Borrowings under the Credit Agreement bear interest at a variable annual rate equal to the greater of (i) 1.00 % above the prime rate then in effect and (ii) 5.00 %, and the Credit Agreement requires monthly, interest-only payments on any outstanding borrowings. In addition, the Company is required to pay quarterly in arrears a commitment fee equal to 0.25 % per annum of the unused portion of the Revolving Line of Credit. As of December 31, 2023, the Credit Agreement provided a revolving line of credit of up to $ 125.0 million, and there was no principal outstanding under the Credit Agreement. Net borrowing capacity available from the Credit Agreement as of December 31, 2023 totaled $ 122.7 million. The Company is also subject to certain affirmative and negative covenants, including the restriction of dividends, under the Credit Agreement which it is in compliance with as of December 31, 2023. One such covenant involves maintaining compensating cash balances. The compensating balances may be withdrawn but the availability of the line of credit is dependent upon maintenance of such compensating balances. The performance of the Company&#8217;s obligations under the Credit Agreement are secured by a first-priority security interest on substantially all of its assets. 
+
+Convertible Notes and Capped Call 
+
+&#160; 
+
+In March 2021, Old DraftKings issued zero-coupon convertible senior notes in an aggregate principal amount of $ 1,265.0 million, which includes proceeds from the full exercise of the over-allotment option (collectively, the &#8220;Convertible Notes&#8221;). The Convertible Notes will mature on March 15, 2028 (the &#8220;Notes Maturity Date&#8221;), subject to earlier conversion, redemption or repurchase. In connection with the issuance of the Convertible Notes, Old DraftKings incurred $ 17.0 million of lender fees and $ 1.7 million of debt financing costs, which are being amortized through the Notes Maturity Date. The Convertible Notes represent senior unsecured obligations of Old DraftKings, which are being amortized through the Notes Maturity Date. On May 5, 2022, in connection with the consummation of the GNOG Transaction, (i) DraftKings Inc. agreed to fully and unconditionally guarantee all of Old DraftKings&#8217; obligations under the Convertible Notes and the indenture governing the Convertible Notes and (ii) each Convertible Note which was outstanding as of the consummation of the GNOG Transaction and previously convertible into shares of Old DraftKings Class A common stock became convertible into shares of DraftKings Inc. Class A common stock. 
+
+The Convertible Notes are convertible at an initial conversion rate of 10.543 shares of DraftKings Inc.&#8217;s Class A common stock per $1,000 principal amount of Convertible Notes, which is equivalent to an initial conversion price of approximately $ 94.85 per share of DraftKings Inc.&#8217;s Class A common stock. The conversion rate is subject to adjustment upon the occurrence of certain specified events and includes a make-whole adjustment upon early conversion in connection with a make-whole fundamental change (as defined in the indenture governing the Convertible Notes). For the years ended December 31, 2023, 2022 and 2021 there were no changes to the initial conversion price. 
+
+Prior to September 15, 2027, the Convertible Notes will be convertible by the holder only upon satisfaction of certain conditions and during certain periods, and thereafter, at any time until the close of business on the second scheduled trading day immediately preceding the Notes Maturity Date. Old DraftKings will satisfy any conversion election by paying or delivering, as the case may be, cash, shares of DraftKings Inc.&#8217;s Class A common stock or a combination of cash and shares of DraftKings Inc.&#8217;s Class A common stock. During 2022, the conditions allowing holders of the Convertible Notes to convert their Convertible Notes were triggered by the holding company reorganization in connection with the GNOG Transaction, whereby DraftKings Inc. became the going-forward public company and replaced Old DraftKings as the issuer of the Class A common stock issuable upon conversion of the Convertible Notes; such conversion window expired on June 27, 2022, and no holders of the Convertible Notes exercised their conversion rights. As of December 31, 2023, no conditions were met to allow for the conversion of the Convertible Notes by any holder. 
+
+In connection with the pricing of the Convertible Notes and the exercise of the over-allotment option to purchase additional notes, Old DraftKings entered into a privately negotiated capped call transaction (&#8220;Capped Call Transactions&#8221;). The Capped Call Transactions have a strike price of $ 94.85 per share, subject to certain adjustments, which corresponds to the initial conversion price of the Convertible Notes. The Capped Call Transactions have an initial cap price of $ 135.50 per share, subject to certain adjustments. The Capped Call Transactions are expected generally to reduce potential dilution to DraftKings Inc.&#8217;s Class A common stock upon any conversion of Convertible Notes. As the transaction qualifies for equity classification, the net 
+
+F-23 
+
+cost of $ 124.0 million incurred in connection with the Capped Call Transactions was recorded as a reduction to additional paid-in capital on the Company's consolidated balance sheet. 
+
+As of December 31, 2023, the Company&#8217;s convertible debt balance was $ 1,253.8 million, net of unamortized debt issuance costs of $ 11.2 million. The amortization of debt issuance costs were $ 2.7 million, $ 2.7 million and $ 2.1 million in 2023, 2022 and 2021, respectively, and these costs are included in the interest expense line-item on the Company's consolidated statements of operations. Although recorded at amortized cost on the Company&#8217;s consolidated balance sheets, the estimated fair value of the Convertible Notes was $ 1,025.6 million and $ 786.5 million as of December 31, 2023 and 2022, respectively, which was calculated using the estimated or actual bids and offers of the Convertible Notes in an over-the-counter market on the last business day of the period, which is a Level 1 fair value measurement. 
+
+&#160; 
+
+Indirect Taxes 
+
+&#160; 
+
+Taxation of e-commerce is becoming more prevalent and could negatively affect the Company&#8217;s business as it primarily pertains to DFS and its contestants. The ultimate impact of indirect taxes on the Company&#8217;s business is uncertain, as is the period required to resolve this uncertainty. The Company&#8217;s estimated contingent liability for indirect taxes represents the Company&#8217;s best estimate of tax liability in jurisdictions in which the Company believes taxation is probable. The Company frequently reevaluates its tax positions for appropriateness. 
+
+&#160; 
+
+Indirect tax statutes and regulations are complex and subject to differences in application and interpretation. Tax authorities may impose indirect taxes on Internet-delivered activities based on statutes and regulations which, in some cases, were established prior to the advent of the Internet and do not apply with certainty to the Company&#8217;s business. The Company&#8217;s estimated contingent liability for indirect taxes may be materially impacted by future audit results, litigation and settlements, should they occur. The Company&#8217;s activities by jurisdiction may vary from period to period, which could result in differences in the applicability of indirect taxes from period to period. 
+
+&#160; 
+
+As of December 31, 2023, and December 31, 2022, the Company&#8217;s estimated contingent liability for indirect taxes was $ 71.2 million and $ 60.3 million, respectively. The estimated contingent liability for indirect taxes is recorded within other long-term liabilities on our consolidated balance sheets and general and administrative expenses on our consolidated statements of operations. 
+
+&#160; 
+
+Warrant Liabilities 
+
+&#160; 
+
+As part of the initial public offering of Diamond Eagle Acquisition Corp. (&#8220;DEAC&#8221;) on May 14, 2019 (the &#8220;IPO&#8221;), DEAC issued 13.3 million warrants, each of which entitles the holder to purchase one share of DraftKings Inc.&#8217;s Class A common stock at an exercise price of $ 11.50 per share (the &#8220;Public Warrants&#8221;). Simultaneously with the closing of the IPO, DEAC completed the private sale of 6.3 million warrants to DEAC&#8217;s sponsor (the &#8220;Private Warrants&#8221;) where each whole warrant entitles the holder to purchase one share of DraftKings Inc.&#8217;s Class A common stock at an exercise price of $ 11.50 per share. As of December 31, 2023, there were no Public Warrants outstanding and 1.4 million Private Warrants outstanding. As of December 31, 2022, there were no Public Warrants outstanding and 1.6 million Private Warrants outstanding. On May 5, 2022, in connection with the consummation of the GNOG Transaction, Old DraftKings entered into an assignment and assumption agreement (the &#8220;Old DraftKings Warrant Assignment Agreement&#8221;) with DraftKings Inc., Computershare Trust Company, N.A. and Computershare Inc. (together, &#8220;Computershare&#8221;), pursuant to which Old DraftKings assigned to DraftKings Inc. all of its rights, interests and obligations under the warrant agreement, dated as of May 10, 2019 (the &#8220;Old DraftKings Warrant Agreement&#8221;), by and between DEAC and Continental Stock Transfer &#38; Trust Company, as warrant agent, as assumed by Old DraftKings and assigned to Computershare by that certain assignment and assumption agreement, dated as of April 23, 2020, governing Old DraftKings&#8217; outstanding Private Warrants, on the terms and conditions set forth in the Old DraftKings Warrant Assignment Agreement. In connection with the consummation of the GNOG Transaction and pursuant to the Old DraftKings Warrant Assignment Agreement, each of the outstanding Private Warrants became exercisable for one share of DraftKings Inc. Class A common stock on the existing terms and conditions, except as otherwise described in the Old DraftKings Warrant Assignment Agreement. 
+
+In addition, on May 5, 2022, in connection with the consummation of the GNOG Transaction, the Company assumed an additional 5.9 million warrants, each of which entitled the holder to purchase one share of GNOG&#8217;s Class A common stock at an exercise price of $ 11.50 per share (the &#8220;GNOG Private Warrants&#8221;). Effective as of the consummation of the GNOG Transaction, each of the outstanding GNOG Private Warrants became exercisable, at a price of $ 31.50 , for 0.365 of a share of DraftKings Inc.&#8217;s Class A common stock, or approximately 2.1 million shares of DraftKings Inc.&#8217;s Class A common stock in the aggregate, on the existing terms and conditions of such GNOG Private Warrants, except as otherwise described in the assignment and assumption agreement relating to the GNOG Private Warrants entered into on the GNOG Closing Date. 
+
+F-24 
+
+The Company classified its Public Warrants, Private Warrants and GNOG Private Warrants pursuant to ASC 815 as derivative liabilities with subsequent changes in their respective fair values recognized in its consolidated statement of operations at each reporting date. As of December 31, 2023 and 2022, there were 5.9 million GNOG Private Warrants outstanding. 
+
+As of December 31, 2023, the fair value of the Company&#8217;s warrant liability was $ 63.6 million. Due to fair value changes throughout 2023, the Company recorded a loss on remeasurement of warrant liabilities of $ 57.5 million and throughout 2022 and 2021, the Company recorded a gain on remeasurement of warrant liabilities of $ 29.4 million and $ 30.1 million, respectively. In 2023, 0.2 million Private Warrants were exercised resulting in a reclassification to additional paid-in-capital in the amount of $ 4.6 million, and no GNOG Private Warrants were exercised. In 2022, a de minimis number of Private Warrants and no GNOG Private Warrants were exercised. In 2021, 0.3 million Private Warrants were exercised, resulting in a reclassification to additional paid-in-capital in the amount of $ 9.2 million. See Note 8 ( Fair Value Measurements ) and Note 13 ( Loss Per Share ) for further information on the Company&#8217;s warrant liabilities. 
+
+&#160; 
+
+8. Fair Value Measurements 
+
+&#160; 
+
+Certain assets and liabilities are carried at fair value under U.S. GAAP. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. Financial assets and liabilities carried at fair value and nonrecurring fair value measurements are to be classified and disclosed in one of the following three levels of the fair value hierarchy, of which the first two are considered observable and the last is considered unobservable: 
+
+&#160; 
+
+&#8226; Level 1 &#8212; Quoted prices in active markets for identical assets or liabilities. 
+
+&#8226; Level 2 &#8212; Observable inputs (other than Level 1 quoted prices), such as quoted prices in active markets for similar assets or liabilities, quoted prices in markets that are not active for identical or similar assets or liabilities, or other inputs that are observable or can be corroborated by observable market data. 
+
+&#8226; Level 3 &#8212; Unobservable inputs that are supported by little or no market activity and that are significant to determining the fair value of the assets or liabilities, including pricing models, discounted cash flow methodologies and similar techniques. 
+
+The following tables set forth the fair value of the Company&#8217;s financial assets and liabilities measured at fair value as of December 31, 2023 and 2022 based on the three-tier fair value hierarchy: 
+
+F-25 
+
+##TABLE_START December 31, 2023 
+
+Level 1 Level 2 Level 3 Total Assets Cash equivalents: Money market funds $ 250,055 &#160; 
+
+(1) 
+
+$ &#8212; &#160; $ &#8212; &#160; $ 250,055 &#160; Other current assets: Digital assets held for users &#8212; &#160; 46,624 &#160; 
+
+(2) 
+
+&#8212; &#160; $ 46,624 &#160; Other non-current assets: Derivative instruments &#8212; &#160; &#8212; &#160; 19,999 &#160; 
+
+(5) 
+
+$ 19,999 &#160; Equity securities &#8212; &#160; 13,533 &#160; 
+
+(4) 
+
+&#8212; &#160; 13,533 &#160; Total $ 250,055 &#160; $ 60,157 &#160; $ 19,999 &#160; $ 330,211 &#160; Liabilities Other current liabilities: Digital assets held for users $ &#8212; &#160; $ 46,624 &#160; 
+
+(2) 
+
+$ &#8212; &#160; $ 46,624 &#160; Warrant liabilities &#8212; &#160; 63,568 &#160; 
+
+(6) 
+
+&#8212; &#160; 63,568 &#160; Total $ &#8212; &#160; $ 110,192 &#160; $ &#8212; &#160; $ 110,192 &#160; ##TABLE_END
+
+##TABLE_START December 31, 2022 
+
+Level 1 Level 2 Level 3 Total Assets Cash equivalents: Money market funds $ 304,216 &#160; 
+
+(1) 
+
+$ &#8212; &#160; $ &#8212; &#160; $ 304,216 &#160; Other current assets: Digital assets held for users &#8212; &#160; 38,444 &#160; 
+
+(2) 
+
+&#8212; &#160; 38,444 &#160; Other non-current assets: Derivative instruments &#8212; &#160; &#8212; &#160; 26,248 &#160; 
+
+(5) 
+
+26,248 &#160; Equity securities 18,250 &#160; 
+
+(3) 
+
+13,533 &#160; 
+
+(4) 
+
+&#8212; &#160; 31,783 &#160; Total $ 322,466 &#160; $ 51,977 &#160; $ 26,248 &#160; $ 400,691 &#160; Liabilities Other current liabilities: Digital assets held for users $ &#8212; &#160; $ 38,444 &#160; 
+
+(2) 
+
+$ &#8212; &#160; $ 38,444 &#160; Warrant liabilities &#8212; &#160; 10,680 &#160; 
+
+(6) 
+
+&#8212; &#160; 10,680 &#160; Total $ &#8212; &#160; $ 49,124 &#160; $ &#8212; &#160; $ 49,124 &#160; ##TABLE_END
+
+(1) Represents the Company&#8217;s money market funds, which are classified as Level 1 because the Company measures these assets to fair value using quoted market prices. 
+
+(2) Represents the asset and liability balance for the digital assets held by the Company for its users, which are classified as Level 2 because the Company measures these digital assets to fair value using latest transaction price for similar transactions. 
+
+(3) Represents the Company&#8217;s marketable equity securities, which are classified as Level 1 because the Company measures these assets to fair value using quoted market prices. 
+
+(4) Represents the Company&#8217;s non-marketable equity securities, which are classified as Level 2 because the Company measures these assets to fair value using observable inputs for similar investments of the same issuer. The Company has elected the remeasurement alternative for these assets. 
+
+(5) Represents the Company&#8217;s derivative instruments held in other public and privately held entities. The Company measures these derivative instruments to fair value using option pricing models and, accordingly, classifies these assets as Level 3. 
+
+F-26 
+
+For the year ended December 31, 2023, the Company sold Level 3 derivative instruments with a fair value at December 31, 2022 of $ 6.3 million for proceeds of $ 5.2 million and recorded loss of $ 0.1 million related to this sale. There were no new Level 3 derivative instruments purchased by or issued to the Company for the year ended December 31, 2023. During 2022, the Company did not purchase or issue a significant amount of new derivative instruments. The table below includes a range and an average weighted by relative fair value of the significant unobservable inputs used to measure these Level 3 derivative instruments to fair value. A change in these significant unobservable inputs might result in a significantly higher or lower fair value measurement at the reporting date. Changes to fair value of these instruments are recorded in Other (loss) income, net on the consolidated statements of operations and Loss (gain) on marketable equity securities and other financial assets, net in the consolidated statement of cash flows. 
+
+##TABLE_START December 31, 2023 December 31, 2022 Range (Weighted Average) Range (Weighted Average) Significant Unobservable Input of Level 3 Investments (amounts in dollars) (amounts in dollars) Underlying stock price of Level 3 investments $ 12.79 - $ 19.80 ($ 19.41 ) 
+
+$ 7.30 - $ 19.80 ($ 16.53 ) 
+
+Volatility of Level 3 investments 75.0 % - 80.0 % ( 79.7 %) 
+
+56.0 % - 80.0 % ( 74.1 %) 
+
+Risk-free rate of Level 3 investments 1.3 % - 4.2 % ( 4.0 %) 
+
+1.3 % - 4.3 % ( 4.1 %) 
+
+##TABLE_END
+
+(6) The Company measures its Private Warrants and the GNOG Private Warrants to fair value using a binomial lattice model or a Black-Scholes model, where appropriate, with the significant assumptions being observable inputs and, accordingly, classifies these liabilities as Level 2. Key assumptions used in the valuation of the Private Warrants and GNOG Private Warrants include term, risk free rate and volatility. See Note 7 Current and Long-term Liabilities and Note 13 Loss Per Share for further information on the Company&#8217;s warrant liabilities. 
+
+During 2022, the Company recorded an unrealized gain of $ 19.9 million in the aggregate for its Level 3 financial assets. The Company did not record any unrealized gains or losses for its Level 3 financial assets during 2023 or 2021. 
+
+9. Revenue Recognition 
+
+&#160; 
+
+Deferred Revenue 
+
+&#160; 
+
+The Company included deferred revenue within accounts payable and accrued expenses and liabilities to users in the consolidated balance sheets. The deferred revenue balances were as follows: 
+
+&#160; 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2023 2022 2021 Deferred revenue, beginning of the period $ 133,851 &#160; $ 91,554 &#160; $ 30,627 &#160; Deferred revenue, end of the period $ 174,212 &#160; $ 133,851 &#160; $ 91,554 &#160; Revenue recognized in the period from amounts included in deferred revenue at the beginning of the period $ 129,246 &#160; $ 74,837 &#160; $ 28,319 &#160; ##TABLE_END
+
+Deferred revenue primarily represents contract liabilities related to the Company&#8217;s obligation to transfer future value in relation to in period transactions in which the Company has received consideration. These obligations are primarily related to incentive programs and wagered amounts associated with unsettled or pending outcomes that fluctuate based on volume of activity. Such obligations are recognized as liabilities when awarded to users and are recognized as revenue when those liabilities are later resolved, often within the following year. 
+
+Revenue Disaggregation 
+
+&#160; 
+
+Disaggregation of revenue for years ended December 31, 2023, 2022 and 2021 are as follows: 
+
+&#160; 
+
+F-27 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2023 2022 2021 Online gaming $ 3,557,191 &#160; $ 2,106,708 &#160; $ 1,145,539 &#160; Gaming software 29,980 &#160; 43,000 &#160; 97,415 &#160; Other 78,222 &#160; 90,753 &#160; 53,071 &#160; Total Revenue $ 3,665,393 &#160; $ 2,240,461 &#160; $ 1,296,025 &#160; ##TABLE_END
+
+&#160; 
+
+Online gaming includes online Sportsbook, iGaming, and DFS, which have certain similar attributes and patterns of recognition. Other revenue primarily includes media, retail sportsbooks and other consumer product offerings. The opening and closing balances of the Company's accounts receivable from contracts with customers were $ 51.1 million and $ 47.5 million, respectively, for the year ended December 31, 2023, $ 45.8 million and $ 51.1 million, respectively, for the year ended December 31, 2022, and $ 44.5 million and $ 45.8 million, respectively, for the year ended December 31, 2021. 
+
+&#160; The following table presents the Company&#8217;s revenue by geographic region for the periods indicated: 
+
+##TABLE_START &#160; Year Ended December 31, &#160; 2023 2022 2021 United States $ 3,595,622 &#160; $ 2,196,803 &#160; $ 1,198,748 &#160; International 69,771 &#160; 43,658 &#160; 97,277 &#160; Total Revenue $ 3,665,393 &#160; $ 2,240,461 &#160; $ 1,296,025 &#160; ##TABLE_END
+
+10. Stockholders&#8217; Equity (Deficit) 
+
+Class A Common Stock 
+
+Holders of Class A common stock are entitled to cast one vote per share of Class A common stock. Holders of Class A common stock are not entitled to cumulate their votes in the election of directors. Holders of Class A common stock will share ratably (based on the number of shares of Class A common stock held) if and when any dividend is declared by the Board out of funds legally available therefor, subject to restrictions, whether statutory or contractual (including with respect to any outstanding indebtedness), on the declaration and payment of dividends and to any restrictions on the payment of dividends imposed by the terms of any outstanding preferred stock or any class or series of stock having a preference over, or the right to participate with, the Class A common stock with respect to the payment of dividends. On the liquidation, dissolution, distribution of assets or winding up of DraftKings, each holder of Class A common stock will be entitled, pro rata on a per share basis, to all assets of DraftKings of whatever kind available for distribution to the holders of common stock, subject to the designations, preferences, limitations, restrictions and relative rights of any other class or series of preferred stock of DraftKings then outstanding. 
+
+Class B Common Stock 
+
+Shares of Class B common stock may be issued only to, and registered in the name of, Mr. Robins and any entities wholly owned by Mr. Robins (including all subsequent successors, assigns and permitted transferees). Holders of Class B common stock are entitled to cast 10 votes per share of Class B common stock. Holders of Class B common stock are not entitled to cumulate their votes in the election of directors. Holders of Class B common stock will not participate in any dividend declared by the Board. On the liquidation, dissolution, distribution of assets or winding up of DraftKings, holders of Class B common stock will not be entitled to receive any distribution of DraftKings assets of whatever kind available until distribution has first been made to all holders of Class A common stock. Notwithstanding this, due to the liquidation rights of holders of Class A common stock described above in which all assets of DraftKings of whatever kind available will be distributed to holders of Class A common stock, no assets of DraftKings will be available for liquidating distributions in respect of Class B common stock. 
+
+Preferred Stock 
+
+The Company&#8217;s amended and restated articles of incorporation provide that its Board has the authority, without action by the stockholders, to designate and issue shares of preferred stock in one or more classes or series, and the number of shares 
+
+F-28 
+
+constituting any such class or series, and to fix the voting powers, designations, preferences, limitations, restrictions and relative rights of each class or series of preferred stock, including, without limitation, dividend rights, dividend rates, conversion rights, exchange rights, voting rights, rights and terms of redemption, dissolution preferences, and treatment in the case of a merger, business combination transaction, or sale of its assets, which rights may be greater than the rights of the holders of the common stock. As of December 31, 2023, the Company had 300.0 million shares authorized of preferred stock, $ 0.0001 par value, of which none were issued and outstanding as of December 31, 2023 or December 31, 2022. 
+
+11. Stock-Based Compensation 
+
+&#160; 
+
+In 2012, the Company&#8217;s board of directors adopted the 2012 Stock Option and Restricted Stock Incentive Plan (the &#8220;2012 Plan&#8221;), which provides for the granting of incentive and nonqualified stock options, shares of restricted stock and other equity interests or awards in the Company. The Company only issued time-based vesting awards under the 2012 Plan. 
+
+&#160; 
+
+In 2017, the Company&#8217;s board of directors approved the 2017 Equity Incentive Plan (the &#8220;2017 Plan&#8221;). No new awards have been issued under the 2012 Plan following the approval of the 2017 Plan. The 2017 Plan provides for the granting of incentive and nonqualified stock options, shares of restricted stock and other equity interests or awards in the Company. The Company issued time-based and performance-based vesting awards under the 2017 Plan. 
+
+In 2020, the Company&#8217;s board of directors approved the 2020 Incentive Award Plan (the &#8220;2020 Plan&#8221;, together with the 2012 Plan and the 2017 Plan, the &#8220;Plans&#8221;). The 2020 Plan provides for the granting of incentive and nonqualified stock options, restricted stock units (&#8220;RSUs&#8221;) and other equity interests or awards in the Company. As of December 31, 2023, the total number of shares available for issuance under the 2020 Plan was 10.1 million shares. There are 10.4 million shares available for issuance under the 2017 Plan, however, we no longer issue awards under the 2017 Plan. There are no securities remaining available for future issuance under the 2012 Plan as this plan has expired pursuant to the terms. The Company issued time-based and performance-based vesting awards under the 2020 Plan. As of December 31, 2023, a share reserve established that the aggregate number of shares may not exceed 900.0 million shares under the Plans. 
+
+&#160; 
+
+The Company has historically issued three types of stock-based compensation: time-based awards, long term incentive plan (&#8220;LTIP&#8221;) awards and performance-based stock compensation plan (&#8220;PSP&#8221;) awards. Time-based awards are equity awards that tie vesting to length of service with the Company. LTIP awards are performance-based equity awards that are used to establish longer-term performance objectives and incentivize management to meet those objectives. PSP awards are performance-based equity awards which establish performance objectives related to one or two particular fiscal years. As applicable, certain stock-based compensation awards expire seven to ten years after the grant date. 
+
+&#160; 
+
+Time-based awards generally vest over a four-year period in annual and/or quarterly installments and, as applicable, expire no later than ten years from the date of grant. Time-based options are valued using the Black-Scholes option-pricing model with the assumptions noted in the table below. Shares issued from the exercise of options are issued from the available Class A shares available under the Plans. The fair value of time-based RSUs is estimated on the grant date using the underlying share price. 
+
+LTIP awards that were granted as RSUs subsequent to 2020 vest based on long-term revenue targets and used the underlying share price on the grant date to estimate their fair value. On and after November 2, 2022, certain DraftKings executives agreed to delay vesting of the third tranche of their restricted stock units granted under a long-term incentive plan and to add a service condition through an extended vesting date. This modification impacts the issuance of approximately 4 million shares of DraftKings Inc.&#8217;s Class A common stock, which vested approximately ten months after the performance condition was met. 
+
+&#160; 
+
+PSP awards granted in 2023 and 2022 vest based on achievement of revenue and Adjusted EBITDA targets and have a range of payouts from 0 % to 200 %. PSP awards granted in 2021 and 2020 vest based on achievement of revenue targets and have a range of payouts from 0 % to 300 %. As these awards are performance-based RSUs, the fair value is estimated on the grant date using the underlying share price. 
+
+&#160; 
+
+The fair value of each option is estimated on the grant date using the Black-Scholes option-pricing model and the assumptions noted in the table below. The fair value is recognized over the requisite service period of the awards, which is generally the vesting period. For awards with only service-based vesting conditions, the Company recognizes compensation cost using the straight-line method. Expected volatility is based on an average volatility for a representative sample of 
+
+F-29 
+
+comparable public companies, including the Company. Stock options are generally granted with an exercise price equal to the fair value of the common stock at the grant date with a 10 -year contractual term. 
+
+&#160; 
+
+The expected term represents the period of time that the options are expected to be outstanding. The Company uses the simplified method as prescribed by the Securities and Exchange Commission Staff Accounting Bulletin No. 107, Share-Based Payment, to calculate the expected term for options granted, whereby, the expected term equals the average of the vesting term and the original contractual term of the options. The Company uses the simplified method because it does not have sufficient historical option exercise data to provide a reasonable basis upon which to estimate expected term. The risk-free interest rate is estimated using the rate of return on U.S. treasury notes with a life that approximates the expected life of the option. The fair value of the stock options issued was measured using the following assumptions: 
+
+&#160; 
+
+##TABLE_START Year ended December 31, &#160; 2023 2022 2021 Risk free interest rate 4.1 &#160; % 3.1 &#160; % 1.1 &#160; % Expected term (in years) 5.9 5.6 5.8 Expected volatility 55.7 &#160; % 53.0 &#160; % 43.0 &#160; % Expected dividend yield 0.0 &#160; % 0.0 &#160; % 0.0 &#160; % ##TABLE_END
+
+&#160; 
+
+The following table shows stock award activity for the years ended December 31, 2023 and 2022: 
+
+&#160; 
+
+##TABLE_START &#160; Time-based PSP LTIP Total Weighted Average Exercise Price of Options Weighted Average FMV of RSUs Weighted Average Remaining Term of Options &#160;(Years) Aggregate Intrinsic Value of Options &#160; Options RSUs Options RSUs Options RSUs &#160; &#160; &#160; &#160; &#160; Outstanding at December 31, 2021 14,695 &#160; 4,195 &#160; 2,354 &#160; 1,488 &#160; 11,671 &#160; 19,343 &#160; 53,746 &#160; $ 5.46 &#160; $ 49.94 &#160; 6.34 $ 622,108 &#160; Granted 400 &#160; 15,254 &#160; &#8212; &#160; 12,523 &#160; &#8212; &#160; 1,390 &#160; 29,567 &#160; 28.24 &#160; 17.79 &#160; &#8212; &#8212; Exercised options / vested RSUs ( 2,672 ) ( 2,913 ) ( 76 ) ( 2,671 ) ( 519 ) ( 6,251 ) ( 15,102 ) 2.68 &#160; 43.19 &#160; &#8212; &#8212; Change in awards due to performance-based multiplier &#8212; &#160; &#8212; &#160; &#8212; &#160; 1,806 &#160; &#8212; &#160; &#8212; &#160; 1,806 &#160; &#8212; &#160; 33.69 &#160; &#8212; &#8212; Forfeited ( 164 ) ( 1,263 ) ( 5 ) ( 27 ) &#8212; &#160; ( 618 ) ( 2,077 ) 4.73 &#160; 34.94 &#160; &#8212; &#8212; Outstanding at December 31, 2022 12,259 &#160; 15,273 &#160; 2,273 &#160; 13,119 &#160; 11,152 &#160; 13,864 &#160; 67,940 &#160; $ 6.17 &#160; $ 29.64 &#160; 5.49 $ 192,062 &#160; Granted 800 &#160; 11,629 &#160; &#8212; &#160; 2,240 &#160; &#8212; &#160; 209 &#160; 14,878 &#160; 29.02 &#160; 19.55 &#160; &#8212; &#8212; Exercised options / vested RSUs ( 2,414 ) ( 7,211 ) ( 884 ) ( 1,715 ) ( 646 ) ( 12,310 ) ( 25,180 ) 4.16 &#160; 42.29 &#160; &#8212; &#8212; Change in awards due to performance-based multiplier &#8212; &#160; &#8212; &#160; &#8212; &#160; 1,141 &#160; &#8212; &#160; &#8212; &#160; 1,141 &#160; &#8212; &#160; 60.25 &#160; &#8212; &#8212; Forfeited ( 285 ) ( 1,810 ) &#8212; &#160; ( 976 ) &#8212; &#160; ( 508 ) ( 3,579 ) 4.39 &#160; 21.18 &#160; &#8212; &#8212; Outstanding at December 31, 2023 10,360 &#160; 17,881 &#160; 1,389 &#160; 13,809 &#160; 10,506 &#160; 1,255 &#160; 55,200 &#160; $ 7.10 &#160; $ 21.01 &#160; 4.59 $ 645,885 &#160; ##TABLE_END
+
+The following table provides additional information for stock option awards outstanding as of December 31, 2023: 
+
+##TABLE_START Awards Outstanding Weighted Average Remaining Term of Options (Years) Aggregate Intrinsic Value Weighted Average Exercise Price of Options Stock options exercisable 21,708 4.5 $ 643,350 &#160; $ 6.44 &#160; Stock options remaining to vest 547 8.9 $ 2,535 &#160; $ 33.10 &#160; ##TABLE_END
+
+F-30 
+
+As of December 31, 2023, total unrecognized stock-based compensation cost of $ 597.5 million related to granted and unvested share-based compensation arrangements that are expected to vest is expected to be recognized over a weighted-average period of 2.6 years. The following table shows stock-based compensation cost for the years ended December 31, 2023, 2022 and 2021: 
+
+&#160; 
+
+##TABLE_START Year ended Year ended Year ended December 31, 2023 December 31, 2022 December 31, 2021 &#160; Options RSUs Total (3) 
+
+Options RSUs Total Options RSUs Total 
+
+Time Based (1) 
+
+$ 10,178 &#160; $ 183,937 &#160; $ 194,115 &#160; $ 15,222 &#160; $ 103,478 &#160; $ 118,700 &#160; $ 14,654 &#160; $ 61,085 &#160; $ 75,739 &#160; 
+
+PSP (2) 
+
+&#8212; &#160; 126,071 &#160; 126,071 &#160; &#8212; &#160; 90,180 &#160; 90,180 &#160; &#8212; &#160; 82,089 &#160; 82,089 &#160; 
+
+LTIP (2) 
+
+&#8212; &#160; 78,277 &#160; 78,277 &#160; &#8212; &#160; 369,919 &#160; 369,919 &#160; &#8212; &#160; 525,465 &#160; 525,465 &#160; Total $ 10,178 &#160; $ 388,285 &#160; $ 398,463 &#160; $ 15,222 &#160; $ 563,577 &#160; $ 578,799 &#160; $ 14,654 &#160; $ 668,639 &#160; $ 683,293 &#160; ##TABLE_END
+
+&#160; 
+
+(1) Time-based awards vest and are expensed over a defined service period. 
+
+(2) PSP and LTIP awards vest based on defined performance criteria and are expensed based on the probability of achieving such criteria. 
+
+(3) Total expenses includes $ 20.2 million of liability-classified awards recorded within accounts payable and accrued liabilities in the consolidated balance sheet as of December 31, 2023. 
+
+&#160; 
+
+The weighted-average grant-date fair values of options granted during the years ended December 31, 2023, 2022 and 2021 were $ 8.59 , $ 7.46 and $ 19.53 per share, respectively. 
+
+During the years ended December 31, 2023, 2022 and 2021 the Company received proceeds from the exercise of stock options of $ 16.5 million, $ 8.7 million and $ 31.5 million, respectively, and the aggregate intrinsic value of those stock options exercised was $ 101.7 million, $ 38.1 million and $ 473.4 million, respectively. The total grant date fair value of stock options that vested during the years ended December 31, 2023, 2022 and 2021 were $ 11.1 million, $ 15.3 million and $ 14.0 million, respectively. 
+
+12. Income Taxes 
+
+&#160; 
+
+Loss before income tax (benefit) provision for the years ended December 31, 2023, 2022 and 2021 consists of the following: 
+
+&#160; 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 United States $ ( 753,105 ) $ ( 1,329,931 ) $ ( 1,391,154 ) Foreign ( 38,148 ) ( 113,027 ) ( 126,490 ) Loss before income tax (benefit) provision $ ( 791,253 ) $ ( 1,442,958 ) $ ( 1,517,644 ) ##TABLE_END
+
+&#160; 
+
+The components of the provision (benefit) for income taxes consists of the following: 
+
+&#160; 
+
+F-31 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Current: &#160; &#160; &#160; Federal $ &#8212; &#160; $ &#8212; &#160; $ 90 &#160; State 433 &#160; 456 &#160; 514 &#160; Foreign 3,888 &#160; 5,085 &#160; 23,174 &#160; Total current provision 4,321 &#160; 5,541 &#160; 23,778 &#160; Deferred: Federal 205 &#160; ( 52,411 ) ( 5,523 ) State 2,643 &#160; ( 17,624 ) ( 2,075 ) Foreign 3,001 &#160; ( 3,372 ) ( 7,911 ) Total deferred (benefit) provision 5,849 &#160; ( 73,407 ) ( 15,509 ) Total income tax (benefit) provision $ 10,170 &#160; $ ( 67,866 ) $ 8,269 &#160; ##TABLE_END
+
+&#160; 
+
+The reconciliation between income taxes computed at the U.S. statutory income tax rate to our provision for income taxes for the years ended December 31, 2023, 2022 and 2021 is as follows: 
+
+&#160; 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Benefit for income taxes at 21% rate $ ( 166,217 ) $ ( 303,028 ) $ ( 318,705 ) Prior year provision true-ups 1,321 &#160; 938 &#160; ( 16,878 ) State taxes, net of federal benefit ( 40,385 ) ( 17,265 ) ( 142,119 ) Internal restructurings &#8212; &#160; &#8212; &#160; ( 167,692 ) Stock-based compensation (benefit) expense 26,155 &#160; 28,015 &#160; ( 70,150 ) Non-deductible lobbying expenses 1,009 &#160; 4,788 &#160; 9,938 &#160; Change in valuation allowance 130,817 &#160; 166,978 &#160; 575,225 &#160; Non-deductible executive compensation 30,106 &#160; 54,925 &#160; 117,849 &#160; (Gain) loss on remeasurement of warrant liabilities 12,084 &#160; ( 6,173 ) ( 6,301 ) Foreign rate differential 3,348 &#160; 1,802 &#160; 16,588 &#160; Income tax reserves 4,119 &#160; ( 553 ) 5,098 &#160; Other 7,813 &#160; 1,707 &#160; 5,416 &#160; Total income tax provision (benefit) $ 10,170 &#160; $ ( 67,866 ) $ 8,269 &#160; ##TABLE_END
+
+Significant components of the Company&#8217;s deferred tax assets (liabilities) as of December 31, 2023 and 2022 are as follows: 
+
+&#160; 
+
+F-32 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 Deferred tax assets: &#160; &#160; Net operating loss carryforwards $ 1,042,874 &#160; $ 961,352 &#160; Intangible assets 82,813 &#160; 72,299 &#160; Accrual and other temporary differences 59,656 &#160; 57,281 &#160; Operating lease 24,784 &#160; 18,213 &#160; Stock-based compensation 51,065 &#160; 93,582 &#160; Capitalized research and development costs 128,719 &#160; 61,584 &#160; Fixed assets 2,451 &#160; 411 &#160; Gross deferred tax assets 1,392,362 &#160; 1,264,722 &#160; Valuation allowance ( 1,358,934 ) ( 1,228,117 ) Net deferred tax assets $ 33,428 &#160; $ 36,605 &#160; Deferred tax liabilities: Capitalized software costs $ ( 4,535 ) $ ( 7,529 ) Fixed assets ( 162 ) ( 3,590 ) Operating lease ( 25,528 ) ( 16,102 ) Other ( 7,798 ) ( 7,943 ) Gross deferred tax liabilities ( 38,023 ) ( 35,164 ) Total net deferred tax (liabilities) assets $ ( 4,595 ) $ 1,441 &#160; ##TABLE_END &#160; 
+
+&#160; 
+
+In assessing whether it is more likely than not that deferred tax assets will be realized, the Company considers all available evidence, both positive and negative, including its recent cumulative earnings or loss, experience and expectations of future available taxable income of the appropriate source and character by taxing jurisdiction, tax attribute carryback and carryforward periods available for tax purposes, and prudent and feasible tax planning strategies. 
+
+The Company records its deferred tax assets of $ 7.8 million and $ 10.7 million for 2023 and 2022, respectively, in deposits and other non-current assets and its deferred tax liabilities of $ 12.4 million and $ 9.3 million for 2023 and 2022, respectively, in other long-term liabilities in the consolidated balance sheets. The Company has provided a valuation allowance for the U.S. deferred tax assets as of December 31, 2023. For the year ended December 31, 2023, the U.S. valuation allowance increased by $ 130.8 million primarily due to the current year operating losses. 
+
+&#160; 
+
+As of December 31, 2023, the Company had U.S. federal and state tax net operating loss (&#8220;NOL&#8221;) carryforwards of $ 3.8 billion and $ 4.1 billion, respectively, which may be available to offset future income tax liabilities. Of the federal net operating loss carryforward, $ 0.7 billion expires at various dates beginning in 2032 through 2037 and $ 3.1 billion does not expire. Of the state NOL carryforward, $ 3.9 billion expires at various dates beginning in 2024 through 2043 and $ 0.2 billion does not expire. 
+
+Utilization of the NOL carryforwards may be subject to limitation under Section 382 of the Internal Revenue Code of 1986 based on ownership changes that have occurred previously or that could occur in the future. These ownership changes may limit the amount of NOL and tax credit carryforwards that can be utilized annually to offset future taxable income and tax, respectively. There could be additional ownership changes in the future, which may result in additional limitations on the utilization of the NOL and tax credit carryforwards. The Company has analyzed the impact of these limitations on its attributes and included the impact of these limitations in its U.S. deferred tax assets. 
+
+&#160; 
+
+As of December 31, 2023, foreign earnings of $ 5.7 million have been retained by the Company&#8217;s foreign subsidiaries for indefinite reinvestment. Upon repatriation of those earnings, in the form of dividends or otherwise, the Company could be subject to withholding taxes payable to the various foreign countries. Determination of the amount of unrecognized deferred income tax liability related to these outside basis differences is not practicable. 
+
+In addition to filing federal income tax returns, the Company files income tax returns in numerous states and foreign jurisdictions that impose an income tax. The Company is subject to U.S. federal, state and local income tax examinations by tax authorities for the years beginning in 2012. The Company is no longer subject to foreign income tax examinations for tax years prior to 2016. 
+
+F-33 
+
+&#160; 
+
+The following table presents a reconciliation of the total amounts of unrecognized tax benefits, excluding interest and penalties, included in long-term income tax liabilities on the Company&#8217;s consolidated balance sheets: 
+
+&#160; 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Unrecognized tax benefits at the beginning of the year $ 58,011 &#160; $ 72,407 &#160; $ 70,341 &#160; Additions for tax positions of prior years 1,026 &#160; 1,807 &#160; &#8212; &#160; Reduction for tax positions of prior years ( 269 ) &#8212; &#160; &#8212; &#160; Additions for tax positions of current year 449 &#160; &#8212; &#160; &#8212; &#160; Settlements &#8212; &#160; ( 7,412 ) &#8212; &#160; Foreign currency adjustments ( 1,793 ) ( 8,791 ) 2,066 &#160; Unrecognized tax benefits at the end of the year $ 57,424 &#160; $ 58,011 &#160; $ 72,407 &#160; ##TABLE_END
+
+&#160; 
+
+As of December 31, 2023, 2022 and 2021, the Company had $ 55.9 million, $ 58.0 million and $ 72.4 million, respectively, of net unrecognized tax benefits, which would affect the Company&#8217;s tax rate if recognized. The Company does not anticipate any material changes to its unrecognized tax benefits within the next twelve months. 
+
+The Company recognizes interest and penalties accrued related to unrecognized tax benefits as income tax expense. During the years ended December 31, 2023, 2022 and 2021 the Company recognized $ 5.0 million, $ 6.4 million and $ 5.0 million in interest and penalties. The Company had $ 16.8 million and $ 11.8 million of interest and penalties accrued at December 31, 2023 and 2022, respectively. 
+
+Significant judgment is required in evaluating the Company's uncertain tax positions and determining its provision for income taxes. Although the Company believes that it has appropriately reserved for its uncertain tax positions, no assurance can be given that the final tax outcome of these matters will not be different than expectations. The Company will adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit, the refinement of an estimate, the closing of a statutory audit period or changes in applicable tax law. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences would impact the provision for income taxes in the period in which such determination is made. The provision for income taxes includes the impact of reserve provisions and changes to the reserves that are considered appropriate, as well as related net interest. 
+
+The Company recognizes liabilities for anticipated tax audit issues in the U.S. and other domestic and international tax jurisdictions based on its estimate of whether, and the extent to which, the tax positions are more likely than not to be sustained based on the technical merits. The Company believes that it has appropriate support for the income tax positions taken and to be taken on its tax returns and that its accruals for tax liabilities are adequate for all open years based on an assessment of many factors including past experience and interpretations of tax laws applied to the facts of each matter. 
+
+The Company believes it maintains appropriate reserves to offset any potential income tax liabilities that may arise upon final resolution of matters for open tax years. If such reserve amounts ultimately prove to be unnecessary, the resulting reversal of such reserves could result in tax benefits being recorded in the period the reserves are no longer deemed necessary. If such amounts prove to be less than an ultimate assessment, a future charge to expense would be recorded in the period in which the assessment is determined. 
+
+&#160; 
+
+13. Loss Per Share 
+
+&#160; 
+
+The computation of loss per share and weighted-average shares of the Company&#8217;s Class A common stock outstanding for the periods presented are as follows: 
+
+F-34 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Net loss $ ( 802,142 ) $ ( 1,377,987 ) $ ( 1,523,195 ) Basic and diluted weighted-average common shares outstanding 462,599 &#160; 436,513 &#160; 402,492 &#160; Loss per share attributable to common stockholders (in dollars): Basic and diluted $ ( 1.73 ) $ ( 3.16 ) $ ( 3.78 ) ##TABLE_END
+
+For the periods presented, the following securities were not required to be included in the computation of diluted shares outstanding: 
+
+##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Class A common stock resulting from exercise of all warrants 3,524 &#160; 3,761 &#160; 1,613 &#160; Stock options and RSUs 55,200 &#160; 67,941 &#160; 53,746 &#160; Convertible notes 13,337 &#160; 13,337 &#160; 13,337 &#160; Total 72,061 &#160; 85,039 &#160; 68,696 &#160; ##TABLE_END
+
+14. Related-Party Transactions 
+
+&#160; 
+
+Financial Advisor 
+
+&#160; 
+
+On May 7, 2021, DraftKings entered into a master engagement letter (as amended, the &#8220;Master Engagement Letter&#8221;), with Raine Securities LLC (the &#8220;Financial Advisor&#8221;), an affiliate of Raine. John Salter, who served as a member of our Board of Directors until April 2022, is a partner of Raine. Pursuant to the Master Engagement Letter, Raine Securities will act as a financial advisor to DraftKings in connection with certain proposed transactions, and DraftKings will pay Raine Securities certain fees and expenses from time to time on the terms and conditions described in the related statements of work. During 2023, 2022 and 2021, the Company incurred $ 0.0 million , $ 8.5 million , $ 2.5 million, respectively, of professional fees in connection with certain business combination transactions and offerings undertaken by the Company, which are recorded within general and administrative expenses on the consolidated statement of operations. 
+
+Receivables from Equity Method Investments 
+
+&#160; 
+
+The Company provides office space and general operational support to DKFS, LLC, an equity-method affiliate. The operational support is primarily general and administrative services. As of December 31, 2023, and 2022, the Company had $ 0.0 million and $ 0.2 million, respectively, of receivables from the entity related to those services and expenses to be reimbursed to the Company. The Company has committed to invest up to $ 17.5 million into DBDK Venture Fund I, LP, a Delaware limited partnership and a subsidiary of DKFS, LLC. As of December 31, 2023, the Company had invested a total of $ 7.6 million of the total commitment. 
+
+&#160; 
+
+Transactions with a Former Director and their Immediate Family Members 
+
+&#160; 
+
+During 2023, 2022 and 2021, the Company had $ 1.4 million, $ 2.3 million, and $ 4.5 million, respectively, in sales to entities related to an immediate family member of a former director. The Company had an associated accounts receivable balance of $ 0.0 million and $ 0.2 million as of December 31, 2023 and December 31, 2022, respectively, included in accounts receivable in its consolidated balance sheets. 
+
+Aircraft 
+
+Starting in 2022, from time to time, the Company has chartered, without mark-up, the private plane owned by Jason Robins, the Company&#8217;s Chief Executive Officer, utilizing aircraft services from Jet Aviation Flight Services, Inc. for the business and personal travel of Mr. Robins and his family. The Company had no direct or indirect interest in such private plane. During 2023 and 2022, the Company incurred no expenses and $ 0.7 million of expense, respectively, for use of the aircraft under these chartering services, which was superseded by the lease referred to below. 
+
+F-35 
+
+On March 30, 2022, the Company entered into a one-year lease of an aircraft from an entity controlled by Mr. Robins, pursuant to which Mr. Robins&#8217; entity leased the aircraft to the Company for $ 0.6 million for a one-year period (the &#8220;Original Aircraft Lease&#8221;). The Company covered all operating, maintenance and other expenses associated with the aircraft. The Original Aircraft Lease expired in accordance with its terms on March 30, 2023, and DraftKings entered into a new one-year lease of such aircraft from an entity controlled by Mr. Robins for $ 0.6 million and otherwise on terms and conditions substantially the same as the Original Aircraft Lease, effective upon the expiration of the Original Aircraft Lease (collectively with the Original Aircraft Lease, the &#8220;Aircraft Leases&#8221;). The audit and compensation committees of the Company&#8217;s Board of Directors approved this arrangement, as well as the Aircraft Leases, based on, among other things, the requirements of the overall security program that Mr. Robins and his family fly private and the committees' assessment that such an arrangement is more efficient and flexible and better ensures safety, confidentiality and privacy. During 2023 and 2022, the Company incurred $ 0.6 million and $ 0.4 million of expense, respectively, under the aircraft lease. 
+
+15. Leases, Commitments and Contingencies 
+
+&#160; 
+
+Leases 
+
+&#160; 
+
+The Company leases corporate office facilities, data centers, and motor vehicles under operating lease agreements. Some of the Company&#8217;s leases include one or more options to renew. For a majority of the Company&#8217;s leases, it does not assume renewals in its determination of the lease term as the renewals are not deemed to be reasonably assured. The Company&#8217;s lease agreements generally do not contain any material residual value guarantees or material restrictive covenants. As of December 31, 2023, the Company&#8217;s lease agreements typically have terms not exceeding ten years . 
+
+&#160; 
+
+Payments under the Company&#8217;s lease arrangements may be fixed or variable, and variable lease payments primarily represent costs related to common area maintenance and utilities. The components of lease expense are as follows: 
+
+&#160; 
+
+##TABLE_START &#160; December 31, 2023 December 31, 2022 December 31, 2021 
+
+Operating lease cost $ 19,175 &#160; $ 20,003 &#160; $ 16,551 &#160; Short term lease cost 2,616 &#160; 6,004 &#160; 3,273 &#160; Variable lease cost 4,644 &#160; 4,462 &#160; 4,261 &#160; Sublease income ( 704 ) ( 849 ) ( 774 ) Total lease cost $ 25,731 &#160; $ 29,620 &#160; $ 23,311 &#160; ##TABLE_END
+
+&#160; 
+
+Supplemental cash flow and other information for 2023 and 2022 related to operating leases was as follows: 
+
+&#160; 
+
+##TABLE_START &#160; December 31, 2023 December 31, 2022 Cash paid for amounts included in the measurement of lease liabilities: &#160; Operating cash flows from operating leases $ 13,561 &#160; $ 16,390 &#160; Right-of-use assets obtained in exchange for new operating lease liabilities $ 21,917 &#160; $ 18,134 &#160; ##TABLE_END
+
+&#160; 
+
+The weighted-average remaining lease term and weighted-average discount rate for the Company&#8217;s operating leases were 7.3 years and 6.5 % as of December 31, 2023. The Company calculated the weighted-average discount rates using incremental borrowing rates, which equal the rates of interest that it would pay to borrow funds on a fully collateralized basis over a similar term. 
+
+F-36 
+
+Maturity of lease liabilities are as follows: 
+
+&#160; ##TABLE_START &#160; December 31, 
+
+2024 $ 16,519 &#160; 2025 15,127 &#160; 2026 14,693 &#160; 2027 15,542 &#160; 2028 16,228 &#160; Thereafter 39,644 &#160; Total undiscounted future cash flows 117,753 &#160; Less: Imputed interest ( 25,427 ) Present value of undiscounted future cash flows $ 92,326 &#160; ##TABLE_END
+
+Other Contractual Obligations and Contingencies 
+
+&#160; 
+
+The Company is a party to several non-cancelable contracts with vendors where the Company is obligated to make future minimum payments under the terms of these contracts as follows: 
+
+&#160; ##TABLE_START &#160; Year ending December 31, 2024 $ 467,609 &#160; 2025 357,058 &#160; 2026 199,339 &#160; 2027 112,588 &#160; 2028 86,802 &#160; Thereafter 181,228 &#160; Total $ 1,404,624 &#160; ##TABLE_END
+
+Surety Bonds 
+
+As of December 31, 2023, the Company has been issued $ 215.0 million in surety bonds at a combined annual premium cost of 0.4 % which are held for certain regulators&#8217; use and benefit in order for the Company to satisfy state license requirements. There have been no claims against such bonds and the likelihood of future claims is remote. 
+
+Contingencies 
+
+From time to time, and in the ordinary course of business, the Company may be subject to certain claims, charges and litigation concerning matters arising in connection with the conduct of the Company&#8217;s business activities. 
+
+Interactive Games LLC 
+
+On June 14, 2019, Interactive Games LLC filed suit against the Company in the U.S. District Court for the District of Delaware, alleging that our Daily Fantasy Sports product offering infringes two patents and the Company&#8217;s Sportsbook product offering infringes two different patents. The Company intends to vigorously defend this case. In the event that a court ultimately determines that the Company is infringing the asserted patents, it may be subject to substantial damages, which may include treble damages and/or an injunction that could require the Company to modify certain features that we currently offer. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+F-37 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this proceeding will have a material adverse effect on the Company's financial condition, although the outcome could be material to the Company's operating results for any particular period, depending, in part, upon our operating results for such period. 
+
+Winview Inc. 
+
+On July 7, 2021, Winview Inc., a Delaware corporation, filed suit against the Company in the U.S. District Court for the District of New Jersey, which was subsequently amended on July 28, 2021, alleging that our Sportsbook product offering infringes two patents, our Daily Fantasy Sports product offering infringes one patent, and that our Sportsbook product offering and Daily Fantasy Sports product offering infringe another patent. On November 15, 2021, Winview Inc. filed a second amended complaint (the &#8220;SAC&#8221;), adding as defendants DK Crown Holdings Inc. (&#8220;DK DE&#8221;) and Crown Gaming Inc., a Delaware corporation, which are wholly-owned subsidiaries of the Company. The SAC largely repeats the allegations of the first amended complaint. 
+
+The Company intends to vigorously defend this case. In the event that a court ultimately determines that the Company is infringing the asserted patents, it may be subject to substantial damages, which may include treble damages and/or an injunction that could require the Company to modify certain features that we currently offer. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this proceeding will have a material adverse effect on the Company's financial condition, although the outcome could be material to the Company's operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Securities Matters Arising From the Hindenburg Report and Related Matters 
+
+Beginning on July 9, 2021, the Company received subpoenas from the SEC seeking documents concerning, among other things, certain of the allegations concerning SBTech that were contained in a report published about the Company on June 15, 2021 by Hindenburg Research, as well as the Company&#8217;s adherence to and disclosures regarding its compliance policies and procedures, and related matters. The Company intends to comply with the related requests and is cooperating with the SEC&#8217;s ongoing inquiry. 
+
+The Company cannot predict with any degree of certainty the outcome of the SEC matter or determine the extent of any potential liabilities. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in the SEC matter could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of the SEC matter will have a material adverse effect on the Company&#8217;s financial condition, although the outcome could be material to the Company&#8217;s operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Matters Related to the GNOG Transaction 
+
+On August 12, 2022, a putative class action was filed in Nevada state District Court in Clark County against Golden Nugget Online Gaming, Inc. (&#8220;GNOG Inc.&#8221;), the Company and one of its officers and two affiliates, as well as former officers or directors and the former controlling stockholder of GNOG Inc. and Jefferies LLC. The lawsuit asserts claims on behalf of a putative class of former minority stockholders of GNOG Inc. alleging that certain former officers and directors of GNOG Inc. and its former controlling stockholder (Tilman Fertitta and/or Fertitta Entertainment, Inc.) breached their fiduciary duties to minority stockholders of GNOG Inc. in connection with the GNOG Transaction, and the other defendants aided and abetted the alleged breaches of fiduciary duty. 
+
+F-38 
+
+On September 9, 2022, two similar putative class actions were filed in the Delaware Court of Chancery against former directors of GNOG Inc. and its former controlling stockholder, one of which also names the Company and Jefferies Financial Group, Inc. as defendants. These pending actions in Delaware assert substantially similar claims on behalf of a putative class of former minority stockholders of GNOG Inc. alleging that certain former officers and directors of GNOG Inc. and its former controlling stockholder (Tilman Fertitta) breached their fiduciary duties to minority stockholders of GNOG Inc. in connection with the GNOG Transaction, and one of the actions also alleges that the Company aided and abetted the alleged breaches of fiduciary duty. On October 12, 2022, the Delaware Court of Chancery consolidated these two actions under the caption In re Golden Nugget Online Gaming, Inc. Stockholders Litigation . At a mediation held on January 24, 2024, the parties reached an agreement in principle to settle the Delaware action, subject to negotiation and execution of mutually agreeable definitive documentation and the performance and satisfaction of terms and conditions set forth thereof. The estimated loss was accrued as of December 31, 2023 in the accounts payable and accrued expenses line-item on the consolidated balance sheet. 
+
+The Company intends to vigorously defend the Nevada action. The Company cannot predict with any degree of certainty the outcome of the Nevada action or determine the extent of any potential liabilities. The Company also cannot provide an estimate of the possible loss or range of loss of the Nevada action. Any adverse outcome in the Nevada action could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of the Nevada action will have a material adverse effect on the Company's financial condition, although the outcome could be material to the Company's operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+AG 18, LLC d/b/a/ Arrow Gaming 
+
+On August 19, 2021, AG 18, LLC d/b/a/ Arrow Gaming (&#8220;Arrow Gaming&#8221;) filed a complaint against the Company in the United States District Court for the District of New Jersey alleging that the Company's DFS and Casino product offerings infringe four patents. On October 12, 2021, Arrow Gaming filed an amended complaint to add one additional patent. On December 20, 2021, Arrow Gaming filed a second amended complaint adding new allegations with respect to alleged willful infringement. 
+
+The Company intends to vigorously defend this case. In the event that a court ultimately determines that the Company is infringing the asserted patents, it may be subject to substantial damages, which may include treble damages and/or an injunction that could require the Company to modify certain features that we currently offer. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this proceeding will have a material adverse effect on the Company's financial condition, although the outcome could be material to the Company's operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Beteiro, LLC 
+
+On November 22, 2021, Beteiro, LLC filed a complaint against the Company in the United States District Court for the District of New Jersey alleging that the Company&#8217;s Sportsbook and Casino product offerings infringe four patents. 
+
+The Company intends to vigorously defend this case. In the event that a court ultimately determines that the Company is infringing the asserted patents, it may be subject to substantial damages, which may include treble damages and/or an injunction that could require the Company to modify certain features that we currently offer. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+F-39 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this proceeding will have a material adverse effect on the Company's financial condition, although the outcome could be material to the Company's operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Diogenes Ltd. &#38; Colossus (IOM) Ltd. 
+
+On December 1, 2021, Diogenes Ltd. &#38; Colossus (IOM) Ltd. (&#8220;Colossus&#8221;), filed a complaint against the Company in the United States District Court for the District of Delaware alleging that the Company&#8217;s Sportsbook product offering infringes seven patents. Colossus amended its complaint on February 7, 2022 to, among other things, add one additional patent. 
+
+The Company intends to vigorously defend this case. In the event that a court ultimately determines that the Company is infringing the asserted patents, it may be subject to substantial damages, which may include treble damages and/or an injunction that could require the Company to modify certain features that we currently offer. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this proceeding will have a material adverse effect on the Company's financial condition, although the outcome could be material to the Company's operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Steiner 
+
+Nelson Steiner filed suit against the Company and FanDuel Inc. in Florida state court on November 9, 2015. The action was subsequently transferred to In Re: Daily Fantasy Sports Litigation (Multi-District Litigation) (the &#8220;MDL&#8221;), and Mr. Steiner&#8217;s action was consolidated into the MDL&#8217;s amended complaint, which, in February 2016, consolidated numerous actions (primarily purported class actions) filed against the Company, FanDuel, and other related parties in courts across the United States. By June 23, 2022, the MDL was resolved, except for Mr. Steiner&#8217;s action, and the court officially closed the MDL docket on July 8, 2022. 
+
+Mr. Steiner brings this action as a concerned citizen of the state of Florida alleging that, among other things, defendants&#8217; daily fantasy sports contests are illegal gambling under the state laws of Florida and seeks disgorgement of &#8220;gambling losses&#8221; purportedly suffered by Florida citizens on behalf of the state. On June 23, 2022, the MDL court remanded Mr. Steiner&#8217;s action to the Circuit Court for Pinellas County, Florida. Plaintiff has not yet filed an amended pleading. 
+
+The Company intends to vigorously defend this suit. Any adverse outcome in this matter could be subject the Company to substantial damages and it could be restricted from offering DFS contests in Florida. The Company cannot provide any assurance as to the outcome of this matter. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this matter will have a material adverse effect on Company&#8217;s financial condition, although the outcome could be material to the Company&#8217;s operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Turley 
+
+On January 9, 2023, Simpson G. Turley, individually and on behalf of all others similarly situated, filed a purported class action against the Company in the United States District Court for the District of Massachusetts. Plaintiff alleges, among other things, that he was a contestant in the Company&#8217;s daily fantasy showdown contest for the January 2, 2023, NFL game between the Cincinnati Bengals and the Buffalo Bills (the &#8220;Bengals-Bills Game&#8221;). The Bengals-Bills Game was postponed and 
+
+F-40 
+
+eventually cancelled due to Damar Hamlin collapsing during the game. Plaintiff alleges that he was winning prizes in multiple showdown contests at the point in time that the Bengals-Bills Game was cancelled (with 5:58 remaining in the first quarter). Plaintiff alleges that, instead of paying out the prize money, the Company refunded entry fees to contestants that entered showdown or flash draft fantasy contests. On May 8, 2023, plaintiff Turley and a new plaintiff (Erik Ramos) filed a First Amended Class Action Complaint. The plaintiffs assert claims for breach of contract, unfair and deceptive acts and practices, false advertising, and unjust enrichment. Among other things, plaintiffs seek statutory damages, monetary damages, punitive damages, attorney fees and interest. 
+
+The Company intends to vigorously defend this case. Any adverse outcome in this matter could subject the Company to substantial damages and/or require alterations to the Company&#8217;s business. The Company cannot provide any assurance as to the outcome of this matter. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in this matter could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this matter will have a material adverse effect on Company&#8217;s financial condition, although the outcome could be material to the Company&#8217;s operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Securities Matters Related to DraftKings Marketplace 
+
+On March 9, 2023, a putative class action was filed in Massachusetts federal court by alleged purchasers of non-fungible tokens (&#8220;NFTs&#8221;) on the DraftKings Marketplace (&#8220;DK Marketplace&#8221;). The complaint asserts claims for violations of federal and state securities laws against the Company and three of its officers on the grounds that, among other things, the NFTs that are sold and traded on the DK Marketplace allegedly constitute securities that were not registered with the SEC in accordance with federal and Massachusetts law, and that the DK Marketplace is a securities exchange that is not registered in accordance with federal and Massachusetts law. Based on these allegations, plaintiff brings claims seeking rescissory damages and other relief on behalf of himself and a putative class of persons who purchased NFTs on the DK Marketplace between August 11, 2021 and the present. The Company intends to vigorously defend this matter. 
+
+On July 17, 2023, the Company received a subpoena from the Securities Division of the Office of the Secretary of the Commonwealth of Massachusetts seeking documents and requesting answers to interrogatories concerning, among other things, DK Marketplace and NFTs that are sold on DK Marketplace, and related matters. We intend to comply with these requests. 
+
+The Company cannot predict with any degree of certainty the outcome of these matters or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in these matters could expose the Company to substantial damages, penalties and/or require alterations to the Company&#8217;s business that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of these matters will have a material adverse effect on Company&#8217;s financial condition, although the outcome could be material to the Company&#8217;s operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Shareholder Derivative Litigation Related to DraftKings Marketplace 
+
+On May 31, 2023, a putative shareholder derivative action was filed in Nevada state court by an alleged shareholder of the Company. The action asserts claims on behalf of the Company against certain senior officers and members of the Board of Directors of the Company for breach of fiduciary duty and unjust enrichment based primarily on allegations that the defendants caused or allowed the Company to disseminate misleading and inaccurate information to its shareholders in connection with NFTs that are sold and traded on the DK Marketplace. The action also alleges that certain individuals are liable for trading in Company stock at artificially inflated prices. The action seeks unspecified compensatory damages, changes to corporate governance and internal procedures, restitution, disgorgement, costs and attorney&#8217;s fees, and other unspecified relief. 
+
+The Company cannot predict with any degree of certainty the outcome of this matter or determine the extent of any potential liabilities. The Company also cannot provide an estimate of the possible loss or range of loss. Because this action 
+
+F-41 
+
+alleges claims on behalf of the Company and purports to seek a judgment in favor of the Company, the Company does not believe, based on currently available information, that the outcome of the proceedings will have a material adverse effect on the Company&#8217;s financial condition, although the outcome could be material to the Company&#8217;s operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Scanlon 
+
+On December 8, 2023, plaintiffs Melissa Scanlon and Shane Harris, individually and on behalf of others similarly situated, filed a purported Massachusetts class action lawsuit against DraftKings in Middlesex County Superior Court of Massachusetts. Among other things, Plaintiffs allege that the Company&#8217;s promotion that offered new customers an opportunity to earn up to 1,000 in site credits, and related advertisements, were: (1) unfair or deceptive practices in violation of Massachusetts General Laws (&#8220;M.G.L.&#8221;) c. 93A, &#167;&#167; 2, 9; and (2) untrue and misleading advertising in violation of M.G.L. c. 266, &#167; 91. The Plaintiffs are seeking, among other things, injunctive relief, actual damages, double or treble damages, and attorneys&#8217; fees. 
+
+The Company intends to vigorously defend this case. Any adverse outcome in this matter could subject the Company to substantial damages and/or require alterations to the Company&#8217;s business. The Company cannot provide any assurance as to the outcome of this matter. 
+
+The Company cannot predict with any degree of certainty the outcome of the suit or determine the extent of any potential liability or damages. The Company also cannot provide an estimate of the possible loss or range of loss. Any adverse outcome in this matter could expose the Company to substantial damages or penalties that may have a material adverse impact on the Company&#8217;s operations and cash flows. 
+
+Despite the potential for significant damages, the Company does not believe, based on currently available information, that the outcome of this matter will have a material adverse effect on Company&#8217;s financial condition, although the outcome could be material to the Company&#8217;s operating results for any particular period, depending, in part, upon the operating results for such period. 
+
+Internal Revenue Service 
+
+The Company is currently under Internal Revenue Service audit for prior tax years, with the primary unresolved issues relating to excise taxation of fantasy sports contests and informational reporting and withholding. The final resolution of that audit, and other audits or litigation, may differ from the amounts recorded in these consolidated financial statements and may materially affect the Company&#8217;s consolidated financial statements in the period or periods in which that determination is made. 
+
+16. Subsequent Events 
+
+&#160; 
+
+Pending Acquisition of Jackpocket Inc. (&#8220;Jackpocket&#8221;) 
+
+On February 11, 2024, the Company entered into a definitive agreement (the &#8220;Merger Agreement&#8221;) to acquire Jackpocket for total consideration of $ 750 million, with approximately 55 percent of the consideration payable in cash funded from the Company&#8217;s existing cash and cash equivalents balance, and approximately 45 percent of the consideration payable in the Company&#8217;s Class A common stock, subject to customary purchase price adjustments and the collar mechanism described below (the &#8220;Jackpocket Transaction&#8221;). 
+
+Under the terms of the Merger Agreement and subject to the terms and conditions set forth therein, the stock consideration will be subject to a collar pursuant to which a variable number of shares of DraftKings&#8217; Class A common stock will be issued to Jackpocket stockholders in order to deliver a value of $ 337.5 million, so long as the 30 -trading-day volume weighted average price of DraftKings&#8217; Class A common stock as of the second trading day immediately preceding the closing of the Jackpocket Transaction (the &#8220;Closing Stock Price&#8221;) remains between $ 31.68 and $ 42.86 . In the event that DraftKings&#8217; Closing Stock Price is above $ 42.86 or below $ 31.68 , Jackpocket stockholders will receive a fixed number of approximately 7,874,806 shares and 10,654,149 shares, respectively, of DraftKings&#8217; Class A common stock, subject to adjustment in certain limited circumstances to the minimum extent necessary to maintain a tax-free transaction. 
+
+The consummation of the Jackpocket Transaction is subject to the receipt of required regulatory approvals and other customary closing conditions. 
+
+F-42 
+
+Exhibit Index 
+
+(b) Exhibits. The following exhibits are being followed herewith: 
+
+##TABLE_START Exhibit No. &#160; Description 
+
+2.1 &#8224; 
+
+&#160; Business Combination Agreement, dated as of December 22, 2019, among DraftKings Inc., SBTech (Global) Limited, SBTech&#8217;s shareholders, Diamond Eagle Acquisition Corp., DEAC NV Merger Corp. and a wholly-owned subsidiary of DEAC (incorporated by reference to Exhibit 2.1 of DEAC NV Merger Corp.&#8217;s Registration Statement on Form S-4 (Reg. No. 333-235805), filed with the SEC on April 14, 2020). 
+
+2.2 
+
+&#160; Agreement and Plan of Merger, dated as of March 12, 2020, by and among Diamond Eagle Acquisition Corp. and DEAC NV Merger Corp. (incorporated by reference to Exhibit 2.3 of DEAC NV Merger Corp.&#8217;s Registration Statement on Form S-4 (Reg. No. 333-235805), filed with the SEC on April 14, 2020). 
+
+2.3 
+
+&#160; Amendment to Business Combination Agreement, dated as of April 7, 2020, among DraftKings Inc., SBTech (Global) Limited, SBTech&#8217;s shareholders, Diamond Eagle Acquisition Corp., DEAC NV Merger Corp. and a wholly-owned subsidiary of DEAC (incorporated by reference to Exhibit 2.4 of DEAC NV Merger Corp.&#8217;s Registration Statement on Form S-4 (Reg. No. 333-235805), filed with the SEC on April 14, 2020). 
+
+2.4 *** 
+
+Agreement and Plan of Merger, by and among DraftKings Inc., New Duke Holdco, Inc., Golden Nugget Online Gaming, Inc., Duke Merger Sub, Inc. and Gulf Merger Sub, Inc., dated as of August 8, 2021 (incorporated by reference to Exhibit 2.1 of the Company's Current Report on Form 8-K, filed with the SEC on August 10, 2021). 
+
+2.5 *** 
+
+Agreement and Plan of Merger and Plan of Reorganization, dated as of February 11, 2024, by and among DraftKings Inc., DraftKings Holdings Inc., Fortune Merger Sub Inc., Fortune Merger Sub LLC, JackPocket, Inc. and Shareholder Representative Services LLC (incorporated by refere nce to Exhibit 2.1 of the Company &#8217; s Current Report on Form 8-K , filed with the SEC on February 1 5, 2024) . 
+
+3.1 
+
+&#160; Amended and Restated Articles of Incorporation of DraftKings Inc. (incorporated by reference to Exhibit 3.1 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on May 5, 2022) 
+
+3.2 
+
+&#160; Amended and Restated Bylaws of DraftKings Inc. (incorporated by reference to Exhibit 3.2 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on May 5, 2022). 
+
+4.1 * 
+
+&#160; Specimen Class A Common Stock Certificate of DraftKings. 
+
+4.2 
+
+&#160; Form of Warrant Certificate of DraftKings Inc. (incorporated by reference to Exhibit 4.2 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+4.3 
+
+&#160; Warrant Agreement, dated May 10, 2019, by and between Diamond Eagle Acquisition Corp. and Continental Stock Transfer &#38; Trust Company, as warrant agent (incorporated by reference to Exhibit 4.1 of Diamond Eagle Acquisition Corp.&#8217;s Current Report on Form 8-K filed on May 14, 2019). 
+
+4.4 
+
+&#160; Assignment and Assumption Agreement, dated April 23, 2020, by and among DraftKings Inc., DEAC, Continental Stock Transfer &#38; Trust Company, Computershare Trust Company, N.A. and Computershare Inc. (incorporated by reference to Exhibit 4.4 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+4.5 
+
+Indenture, dated as of March 18, 2021, between the Company and Computershare Trust Company, N.A., as trustee (including Form of 0% Convertible Senior Notes due 2028) (incorporated by reference to Exhibit 4.1 of the Company's Current Report on Form 8-K, filed with the SEC on March 18, 2021). 
+
+4.6 
+
+First Supplemental Indenture, dated as of May 5, 2022, between DraftKings Inc., Old DraftKings and Computershare Trust Company, N.A., as trustee (incorporated by reference to Exhibit 4.6 of the Company's Current Report on Form 8-K, filed with the SEC on May 5, 2022). 
+
+4.7 
+
+&#160; Description of DraftKings Inc. ' s Capital Stock (incorporated by reference to DraftKings Inc . ' s Registration Statement on Form S-4 (Reg. No. 333-260174), filed with the SEC on December 9, 2021). 
+
+4.8 
+
+Assignment and Assumption Agreement, dated May 5, 2022, by and among DraftKings Inc . , GNOG, Continental and Computershare (incorporated by reference to Exhibit 4.2 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on May 5, 2022). 
+
+4.9 
+
+Assignment and Assumption Agreement, dated May 5, 2022, by and among DraftKings Inc. , Old DraftKings and Computershare (incorporated by reference to Exhibit 4.5 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on May 5, 2022). 
+
+10.1 + 
+
+&#160; DraftKings Inc. 2020 Incentive Award Plan (incorporated by reference to Exhibit 10.1 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+10.2 
+
+&#160; Form of Subscription Agreement, dated December 22, 2019, by and between Diamond Eagle Acquisition Corp. and the undersigned subscriber party thereto (incorporated by reference to Exhibit 10.2 of DEAC NV Merger Corp.&#8217;s Registration Statement on Form S-4 (Reg. No. 333-235805), filed with the SEC on April 14, 2020). 
+
+10.3 + 
+
+&#160; Executive Employment Agreement, dated April 23, 2020, between DraftKings Inc. and Matt Kalish (incorporated by reference to Exhibit 10.2 the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+##TABLE_END
+
+##TABLE_START 
+
+10.4 + 
+
+&#160; Executive Employment Agreement, dated April 23, 2020, between DraftKings Inc. and Paul Liberman (incorporated by reference to Exhibit 10.3 the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+10.5 + 
+
+&#160; Executive Employment Agreement, dated April 23, 2020, between DraftKings Inc. and Jason Robins (incorporated by reference to Exhibit 10.4 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+10.6 + 
+
+&#160; DraftKings Inc. Employee Stock Purchase Plan (incorporated by reference to Exhibit 10.5 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+##TABLE_END
+
+##TABLE_START 
+
+10.7 
+
+&#160; Form of Indemnification Agreement (incorporated by reference to Exhibit 10.1 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on May 5, 2022). 
+
+10.8 
+
+&#160; Earnout Escrow Agreement, dated April 23, 2020, by and among DraftKings Inc., Shalom Meckenzie, in his capacity as SBT Sellers&#8217; Representative, Eagle Equity Partners LLC, Jeff Sagansky, Eli Baker, Harry Sloan, I.B.I. Trust Management, the trustee, and Computershare Trust Company, N.A., as escrow agent (incorporated by reference to Exhibit 10.8 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+10.9 
+
+&#160; Stockholders Agreement, dated April 23, 2020, by and among DraftKings Inc., the DK Stockholder Group, the SBT Stockholder Group and the DEAC Stockholder Group (incorporated by reference to Exhibit 10.9 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+10.10 
+
+&#160; Amendment to Stockholders Agreement, dated October 5, 2020, by and among DraftKings Inc., the DK Stockholder Group, the SBT Stockholder Group and the DEAC Stockholder Group (incorporated by reference to Exhibit 10.1 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on October 5, 2020). 
+
+10.11 
+
+&#160; Share Exchange Agreement, dated April 23, 2020, by and among DraftKings Inc., a Delaware corporation, Jason Robins and DEAC NV Merger Corp. (incorporated by reference to Exhibit 10.10 of the Company&#8217;s Current Report on Form 8-K, filed with the SEC on April 29, 2020). 
+
+10.12 &#8224;** 
+
+&#160; Agreement for the Provision of a Sports Betting Solution (&#8220;License Agreement&#8221;), between Sports Information Services Limited and Crown Gaming Inc., dated as of June 19, 2018 (incorporated by reference to Exhibit 10.5 of DEAC NV Merger Corp.&#8217;s Registration Statement on Form S-4 (Reg. No. 333-235805), filed with the SEC on April 14, 2020). 
+
+10.13 &#8224;** 
+
+&#160; Addendum to License Agreement, between Sports Information Services Limited and Crown Gaming Inc., dated as of August 22, 2019 (incorporated by reference to Exhibit 10.6 of DEAC NV Merger Corp.&#8217;s Registration Statement on Form S-4 (Reg. No. 333-235805), filed with the SEC on April 14, 2020). 
+
+10.14 &#8224;** 
+
+&#160; Addendum, dated as of July 23, 2020 to the Agreement for the Provision of a Sports Betting Solution between Sports Information Services Limited and Crown Gaming Inc., dated as of June 19, 2018 (incorporated by reference to Exhibit 10.1 to DraftKings Inc.&#8217;s Current Report on Form 8-K (File No. 001-38908), filed with the SEC on July 23, 2020). 
+
+##TABLE_END
+
+##TABLE_START 
+
+10.15 + 
+
+&#160; DraftKings Inc. 2017 Equity Incentive Plan, as amended from time to time (incorporated by reference to Exhibit 10.22 of the Company&#8217;s Registration Statement on Form S-1 (No. 333-238051), filed with the SEC on May 6, 2020). 
+
+10.16 + 
+
+&#160; Form of Stock Option Award Agreement (incorporated by reference to Exhibit 10.10 of the Company&#8217;s Quarterly Report on Form 10-Q, filed with the SEC on May 15, 2020). 
+
+10.17 + 
+
+&#160; Form of Restricted Stock Unit Award Agreement (incorporated by reference to Exhibit 10.11 of the Company&#8217;s Quarterly Report on Form 10-Q, filed with the SEC on May 15, 2020). 
+
+10.18 
+
+Form of Base Capped Call Transaction Confirmation (incorporated by reference to Exhibit 10.1 of the Company's Current Report on Form 8-K, filed with the SEC on March 18, 2021). 
+
+10.19 
+
+Form of Additional Capped Call Transaction Confirmation (incorporated by reference to Exhibit 10.2 of the Company's Current Report on Form 8-K, filed with the SEC on March 18, 2021). 
+
+10.20 
+
+Amended Executive Employment Agreement, dated August 5, 2021, between DraftKings Inc. and R. Stanton Dodge (incorporated by reference to Exhibit 10.1 of the Company's Quarterly Report on Form 10-Q, filed with the SEC on August 6, 2021). 
+
+10.21 
+
+Amended and Restated Executive Employment Agreement, dated August 5, 2021, between DraftKings Inc. and Jason Park (incorporated by reference to Exhibit 10.2 of the Company's Quarterly Report on Form 10-Q, filed with the SEC on August 6, 2021). 
+
+10.22 
+
+Support Agreement, by and among DraftKings Inc., Tilman J. Fertitta, Fertitta Entertainment, Inc., Landry&#8217;s Fertitta, LLC, Golden Landry&#8217;s LLC, Golden Fertitta, LLC and New Duke Holdco, Inc., dated as of August 8, 2021 (incorporated by reference to Exhibit 10.1 of the Company's Current Report on Form 8-K, filed with the SEC on August 10, 2021). 
+
+14.1 
+
+&#160; Code of Business Ethics of the Company, dated April 23, 2020 (incorporated by reference to Exhibit 14.1 of the Company's Amended Annual Report on Form 10-K/A, filed with the SEC on May 3, 2021). 
+
+21.1* 
+
+&#160; List of Subsidiaries. 
+
+23.1* 
+
+&#160; 
+
+Consent of BDO USA, P.C. , independent registered public accounting firm. 
+
+31.1* 
+
+&#160; Certification of Chief Executive Officer pursuant to Rules 13a-14 and 15d-14 promulgated under the Securities Exchange Act of 1934. 
+
+31.2* 
+
+&#160; Certification of Chief Financial Officer pursuant to Rules 13a-14 and 15d-14 promulgated under the Securities Exchange Act of 1934. 
+
+32.1* 
+
+&#160; Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2* 
+
+&#160; Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+97.1* 
+
+Executive Compensation Clawback Policy, dated as of December 1, 2023 
+
+99.1 
+
+Loan and Security Agreement, dated as of December 20, 2022, by and among DraftKings Inc., as borrower, the guarantors listed therein, the lenders listed therein, Pacific Western Bank, as administrative agent, collateral agent and payment agent, Citizens Bank, N.A., as syndication agent, and Pacific Western Bank and Citizens Bank, N.A., as joint bookrunners and joint lead arrangers (incorporated by reference to Exhibit 99.1 of the Company&#8217;s Annual Report on Form 10-K, filed with the SEC on February 17, 202 3 ) . 
+
+101.INS* &#160; XBRL Instance Document 101.SCH* &#160; XBRL Taxonomy Extension Schema Document 101.CAL* &#160; XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF* &#160; XBRL Taxonomy Extension Definition Linkbase Document 101.LAB* &#160; XBRL Taxonomy Extension Label Linkbase Document 101.PRE* &#160; XBRL Taxonomy Extension Presentation Linkbase Document 104.1 Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit). ##TABLE_END
+
+* Filed herewith. 
+
+** Certain portions of this exhibit have been omitted pursuant to Regulation S-K Item 601(b)(10)(iv). The Registrant agrees to furnish an unredacted copy of the exhibit to the SEC upon its request. 
+
+*** Annexes, schedules and/or exhibits have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The Company agrees to furnish supplementally a copy of any omitted attachment to the SEC on a confidential basis upon request. 
+
+&#8224; Certain of the exhibits and schedules to this Exhibit have been omitted in accordance with Regulation S-K Item 601(a)(5). The Registrant agrees to furnish a copy of all omitted exhibits and schedules to the SEC upon its request. 
+
++ Management contract or compensatory plan or arrangement. 
+
+Item 16. Form 10-K Summary. 
+
+None. 
+
+Signatures 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+##TABLE_START Date: February 16, 2024 &#160; &#160; &#160; &#160; &#160; By: /s/ Jason K. Park &#160; Name: Jason K. Park &#160; Title: Chief Financial Officer ##TABLE_END
+
+POWER OF ATTORNEY 
+
+Each person whose individual signature appears below hereby authorizes and appoints Jason D. Robins, R. Stanton Dodge, and Jason K. Park, and each of them, with full power of substitution and resubstitution and full power to act without the other, as his or her true and lawful attorney-in-fact and agent to act in his or her name, place and stead and to execute in the name and on behalf of each person, individually and in each capacity stated below, and to file any and all amendments to this annual report on Form 10-K and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing, ratifying and confirming all that said attorneys-in-fact and agents or any of them or their or his or her substitute or substitutes may lawfully do or cause to be done by virtue thereof. 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+##TABLE_START Name &#160; Position &#160; Date /s/ Jason D. Robins &#160; Chief Executive Officer and Chairman &#160; February 16, 2024 Jason D. Robins &#160; (Principal Executive Officer) &#160; &#160; /s/ Jason K. Park &#160; Chief Financial Officer &#160; February 16, 2024 Jason K. Park &#160; (Principal Financial and Accounting Officer) &#160; &#160; /s/ Harry Evans Sloan &#160; Vice Chairman &#160; February 16, 2024 Harry Evans Sloan &#160; &#160; &#160; &#160; /s/ Matthew Kalish &#160; Director &#160; February 16, 2024 Matthew Kalish &#160; &#160; &#160; &#160; /s/ Woodrow H. Levin &#160; Director &#160; February 16, 2024 Woodrow H. Levin &#160; &#160; &#160; &#160; /s/ Paul Liberman &#160; Director &#160; February 16, 2024 Paul Liberman &#160; &#160; &#160; &#160; /s/ Jocelyn Moore &#160; Director &#160; February 16, 2024 Jocelyn Moore &#160; &#160; &#160; &#160; /s/ Ryan R. Moore &#160; Director &#160; February 16, 2024 Ryan R. Moore &#160; &#160; &#160; &#160; /s/ Valerie Mosley &#160; Director &#160; February 16, 2024 Valerie Mosley &#160; &#160; &#160; &#160; /s/ Steven J. Murray &#160; Director &#160; February 16, 2024 Steven J. Murray &#160; &#160; &#160; &#160; /s/ Marni M. Walden &#160; Director &#160; February 16, 2024 Marni M. Walden &#160; &#160; &#160; &#160; ##TABLE_END
+
